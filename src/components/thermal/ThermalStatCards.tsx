@@ -12,8 +12,8 @@ interface PlantData {
   eia_unit_id: string;
   capacity_mw: number;
   estimated_vc: number;
-  solar_lcoe_2025_wIRA: number;
-  wind_lcoe_2025_wIRA: number;
+  solar_lcoe_2025_woIRA: number;
+  wind_lcoe_2025_woIRA: number;
   install_solar_capacity_mw_2030_woIRA: number;
   install_wind_capacity_mw_2030_woIRA: number;
 }
@@ -64,10 +64,10 @@ export default function ThermalStatCards({
         plantsToUse.map((p) => Number(p.estimated_vc || 0))
       ),
       avgSolarLCOE: calculateAverage(
-        plantsToUse.map((p) => Number(p.solar_lcoe_2025_wIRA || 0))
+        plantsToUse.map((p) => Number(p.solar_lcoe_2025_woIRA || 0))
       ),
       avgWindLCOE: calculateAverage(
-        plantsToUse.map((p) => Number(p.wind_lcoe_2025_wIRA || 0))
+        plantsToUse.map((p) => Number(p.wind_lcoe_2025_woIRA || 0))
       ),
 
       solarCapacity: plantsToUse.reduce((sum, p) => {

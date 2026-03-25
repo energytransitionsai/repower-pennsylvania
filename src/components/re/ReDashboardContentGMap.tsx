@@ -200,9 +200,9 @@ export default function ReDashboardContentGMap({}) {
     const optimalCf =
       ((feature.getProperty("optimal_cf") as number) * 100).toFixed(2) || 0;
     const solarLcoe2025wIRA =
-      (feature.getProperty("solar_lcoe_2025_wIRA") as number).toFixed(2) || 0;
+      (feature.getProperty("solar_lcoe_2025_woIRA") as number).toFixed(2) || 0;
     const windLcoe2025wIRA =
-      (feature.getProperty("wind_lcoe_2025_wIRA") as number).toFixed(2) || 0;
+      (feature.getProperty("wind_lcoe_2025_woIRA") as number).toFixed(2) || 0;
 
     const popupContent = `
         <div class="popup-content custom-popup" style="max-width: 400px;">
@@ -259,11 +259,11 @@ export default function ReDashboardContentGMap({}) {
                 <span class="info-value">${optimalCf} %</span>
               </div>
               <div class="info-row">
-                <span class="info-label">Solar LCOE (2025):</span>
+                <span class="info-label">Solar LCOE (2025, w/o IRA):</span>
                 <span class="info-value">${solarLcoe2025wIRA} $/MWh</span>
               </div>
               <div class="info-row">
-                <span class="info-label">Wind LCOE (2025):</span>
+                <span class="info-label">Wind LCOE (2025, w/o IRA):</span>
                 <span class="info-value">${windLcoe2025wIRA} $/MWh</span>
               </div>
             </div>

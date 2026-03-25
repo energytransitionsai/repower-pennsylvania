@@ -37,7 +37,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.909734589041096
+      "capacity_factor": 0.909734589041096,
+      "solar_lcoe_2025_woIRA": 37.04515205068665,
+      "wind_lcoe_2025_woIRA": 34.7380437830132
     }
   },
   {
@@ -78,7 +80,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6930021047592163
+      "capacity_factor": 0.6930021047592163,
+      "solar_lcoe_2025_woIRA": 38.02196044896174,
+      "wind_lcoe_2025_woIRA": 35.7278434877004
     }
   },
   {
@@ -119,7 +123,9 @@
       "install_wind_capacity_mw_2027_woIRA": 56.19173590100572,
       "install_wind_capacity_mw_2030_woIRA": 56.19173590100572,
       "install_wind_capacity_mw_2035_woIRA": 56.19173590100572,
-      "capacity_factor": 0.1096963733434677
+      "capacity_factor": 0.1096963733434677,
+      "solar_lcoe_2025_woIRA": 37.07011518706761,
+      "wind_lcoe_2025_woIRA": 40.31134157351261
     }
   },
   {
@@ -160,7 +166,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 65.01253165290778,
       "install_wind_capacity_mw_2035_woIRA": 65.01253165290778,
-      "capacity_factor": 0.7072261571884155
+      "capacity_factor": 0.7072261571884155,
+      "solar_lcoe_2025_woIRA": 38.03107561284303,
+      "wind_lcoe_2025_woIRA": 40.43739499717774
     }
   },
   {
@@ -169,7 +177,7 @@
       "eia_unit_id": "GEN1",
       "plant_name": "Hazelton",
       "rto_name": "PJM",
-      "parent_company_name": "LOTUS INFRASTRUTURE PARTNERS",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ct",
       "capacity_mw": 58.9,
       "total_plant_capacity": 145.6,
@@ -201,7 +209,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.003692109137773514
+      "capacity_factor": 0.003692109137773514,
+      "solar_lcoe_2025_woIRA": 37.30685719639621,
+      "wind_lcoe_2025_woIRA": 36.42588617343265
     }
   },
   {
@@ -210,7 +220,7 @@
       "eia_unit_id": "GEN2",
       "plant_name": "Hazelton",
       "rto_name": "PJM",
-      "parent_company_name": "LOTUS INFRASTRUTURE PARTNERS",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ct",
       "capacity_mw": 28.3,
       "total_plant_capacity": 145.6,
@@ -242,7 +252,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.00369210890494287
+      "capacity_factor": 0.00369210890494287,
+      "solar_lcoe_2025_woIRA": 37.30685719639621,
+      "wind_lcoe_2025_woIRA": 36.42588617343265
     }
   },
   {
@@ -251,7 +263,7 @@
       "eia_unit_id": "GEN3",
       "plant_name": "Hazelton",
       "rto_name": "PJM",
-      "parent_company_name": "LOTUS INFRASTRUTURE PARTNERS",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ct",
       "capacity_mw": 29.3,
       "total_plant_capacity": 145.6,
@@ -283,7 +295,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.00369210890494287
+      "capacity_factor": 0.00369210890494287,
+      "solar_lcoe_2025_woIRA": 37.30685719639621,
+      "wind_lcoe_2025_woIRA": 36.42588617343265
     }
   },
   {
@@ -292,7 +306,7 @@
       "eia_unit_id": "GEN4",
       "plant_name": "Hazelton",
       "rto_name": "PJM",
-      "parent_company_name": "LOTUS INFRASTRUTURE PARTNERS",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ct",
       "capacity_mw": 29.1,
       "total_plant_capacity": 145.6,
@@ -324,7 +338,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.00369210890494287
+      "capacity_factor": 0.00369210890494287,
+      "solar_lcoe_2025_woIRA": 37.30685719639621,
+      "wind_lcoe_2025_woIRA": 36.42588617343265
     }
   },
   {
@@ -365,7 +381,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.02552322298288345
+      "capacity_factor": 0.02552322298288345,
+      "solar_lcoe_2025_woIRA": 36.9654486557372,
+      "wind_lcoe_2025_woIRA": 42.54465665974978
     }
   },
   {
@@ -406,7 +424,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.02254202775657177
+      "capacity_factor": 0.02254202775657177,
+      "solar_lcoe_2025_woIRA": 36.9654486557372,
+      "wind_lcoe_2025_woIRA": 42.54465665974978
     }
   },
   {
@@ -447,7 +467,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0252547413110733
+      "capacity_factor": 0.0252547413110733,
+      "solar_lcoe_2025_woIRA": 36.9654486557372,
+      "wind_lcoe_2025_woIRA": 42.54465665974978
     }
   },
   {
@@ -488,7 +510,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0096324123442173
+      "capacity_factor": 0.0096324123442173,
+      "solar_lcoe_2025_woIRA": 36.9654486557372,
+      "wind_lcoe_2025_woIRA": 42.54465665974978
     }
   },
   {
@@ -497,7 +521,7 @@
       "eia_unit_id": "1",
       "plant_name": "Hamilton (PA)",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "ogs",
       "capacity_mw": 20.4,
       "total_plant_capacity": 20.4,
@@ -529,7 +553,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.001161666819825768
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.40152390953158,
+      "wind_lcoe_2025_woIRA": 46.76736427893165
     }
   },
   {
@@ -538,7 +564,7 @@
       "eia_unit_id": "1",
       "plant_name": "Hunterstown",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "gas_ct",
       "capacity_mw": 21.0,
       "total_plant_capacity": 64.0,
@@ -570,7 +596,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.02349537238478661
+      "capacity_factor": 0.02349537238478661,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -579,7 +607,7 @@
       "eia_unit_id": "2",
       "plant_name": "Hunterstown",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "gas_ct",
       "capacity_mw": 21.5,
       "total_plant_capacity": 64.0,
@@ -611,7 +639,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.02349537238478661
+      "capacity_factor": 0.02349537238478661,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -620,7 +650,7 @@
       "eia_unit_id": "3",
       "plant_name": "Hunterstown",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "gas_ct",
       "capacity_mw": 21.5,
       "total_plant_capacity": 64.0,
@@ -652,7 +682,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.02349537238478661
+      "capacity_factor": 0.02349537238478661,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -661,7 +693,7 @@
       "eia_unit_id": "1",
       "plant_name": "Ortanna",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "ogs",
       "capacity_mw": 20.2,
       "total_plant_capacity": 20.2,
@@ -693,7 +725,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.0004975376068614423
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 34.94904094788782,
+      "wind_lcoe_2025_woIRA": 45.04787433559245
     }
   },
   {
@@ -702,7 +736,7 @@
       "eia_unit_id": "4",
       "plant_name": "Portland (PA)",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "gas_ct",
       "capacity_mw": 21.0,
       "total_plant_capacity": 161.5,
@@ -734,7 +768,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.0003221649385523051
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 37.11860598150655,
+      "wind_lcoe_2025_woIRA": 49.50066339761546
     }
   },
   {
@@ -743,7 +779,7 @@
       "eia_unit_id": "5",
       "plant_name": "Portland (PA)",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "ogs",
       "capacity_mw": 140.5,
       "total_plant_capacity": 161.5,
@@ -775,7 +811,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.0003221649676561356
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 37.11860598150655,
+      "wind_lcoe_2025_woIRA": 49.50066339761546
     }
   },
   {
@@ -784,7 +822,7 @@
       "eia_unit_id": "4",
       "plant_name": "Titus",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "ogs",
       "capacity_mw": 15.0,
       "total_plant_capacity": 31.1,
@@ -816,7 +854,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.002599423285573721
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.83999786368393,
+      "wind_lcoe_2025_woIRA": 44.55411479854288
     }
   },
   {
@@ -825,7 +865,7 @@
       "eia_unit_id": "5",
       "plant_name": "Titus",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "ogs",
       "capacity_mw": 16.1,
       "total_plant_capacity": 31.1,
@@ -857,7 +897,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.002599423285573721
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.83999786368393,
+      "wind_lcoe_2025_woIRA": 44.55411479854288
     }
   },
   {
@@ -898,7 +940,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2264664769172668
+      "capacity_factor": 0.2264664769172668,
+      "solar_lcoe_2025_woIRA": 37.90592492762753,
+      "wind_lcoe_2025_woIRA": 35.34475019745761
     }
   },
   {
@@ -939,7 +983,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1921101659536362
+      "capacity_factor": 0.1921101659536362,
+      "solar_lcoe_2025_woIRA": 37.90592492762753,
+      "wind_lcoe_2025_woIRA": 35.34475019745761
     }
   },
   {
@@ -948,7 +994,7 @@
       "eia_unit_id": "1",
       "plant_name": "Blossburg",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Reorganized Heritage Power, LLC",
       "technology": "gas_ct",
       "capacity_mw": 20.9,
       "total_plant_capacity": 20.9,
@@ -980,7 +1026,9 @@
       "install_wind_capacity_mw_2027_woIRA": 27.31179721700045,
       "install_wind_capacity_mw_2030_woIRA": 27.31179721700045,
       "install_wind_capacity_mw_2035_woIRA": 27.31179721700045,
-      "capacity_factor": 0.002310071373358369
+      "capacity_factor": 0.002310071373358369,
+      "solar_lcoe_2025_woIRA": 38.07592491750687,
+      "wind_lcoe_2025_woIRA": 36.92886213754879
     }
   },
   {
@@ -989,7 +1037,7 @@
       "eia_unit_id": "1",
       "plant_name": "Homer City Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "HOMER CITY GENERATION LP",
+      "parent_company_name": "Knighthead Capital Management",
       "technology": "coal",
       "capacity_mw": 626.1,
       "total_plant_capacity": 1888.3,
@@ -1021,7 +1069,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.0001082417147699744
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.65836137722003,
+      "wind_lcoe_2025_woIRA": 33.87691174420518
     }
   },
   {
@@ -1030,7 +1080,7 @@
       "eia_unit_id": "2",
       "plant_name": "Homer City Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "HOMER CITY GENERATION LP",
+      "parent_company_name": "Knighthead Capital Management",
       "technology": "coal",
       "capacity_mw": 613.3,
       "total_plant_capacity": 1888.3,
@@ -1062,7 +1112,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.0001082417147699744
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.65836137722003,
+      "wind_lcoe_2025_woIRA": 33.87691174420518
     }
   },
   {
@@ -1071,7 +1123,7 @@
       "eia_unit_id": "3",
       "plant_name": "Homer City Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "HOMER CITY GENERATION LP",
+      "parent_company_name": "Knighthead Capital Management",
       "technology": "coal",
       "capacity_mw": 648.9,
       "total_plant_capacity": 1888.3,
@@ -1103,7 +1155,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": -0.0001082417074940167
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.65836137722003,
+      "wind_lcoe_2025_woIRA": 33.87691174420518
     }
   },
   {
@@ -1144,7 +1198,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.4069660305976868
+      "capacity_factor": 0.4069660305976868,
+      "solar_lcoe_2025_woIRA": 37.90014802333264,
+      "wind_lcoe_2025_woIRA": 43.53358694694701
     }
   },
   {
@@ -1185,7 +1241,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2570537328720093
+      "capacity_factor": 0.2570537328720093,
+      "solar_lcoe_2025_woIRA": 39.14541280732456,
+      "wind_lcoe_2025_woIRA": 41.73521612056084
     }
   },
   {
@@ -1226,7 +1284,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.3073078393936157
+      "capacity_factor": 0.3073078393936157,
+      "solar_lcoe_2025_woIRA": 39.14541280732456,
+      "wind_lcoe_2025_woIRA": 41.73521612056084
     }
   },
   {
@@ -1267,7 +1327,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2539330422878265
+      "capacity_factor": 0.2539330422878265,
+      "solar_lcoe_2025_woIRA": 39.14541280732456,
+      "wind_lcoe_2025_woIRA": 41.73521612056084
     }
   },
   {
@@ -1308,7 +1370,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2746149897575378
+      "capacity_factor": 0.2746149897575378,
+      "solar_lcoe_2025_woIRA": 39.14541280732456,
+      "wind_lcoe_2025_woIRA": 41.73521612056084
     }
   },
   {
@@ -1317,7 +1381,7 @@
       "eia_unit_id": "3",
       "plant_name": "Warren",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Midwood Holdings",
       "technology": "gas_ct",
       "capacity_mw": 62.0,
       "total_plant_capacity": 62.0,
@@ -1349,7 +1413,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.03217843547463417
+      "capacity_factor": 0.03217843547463417,
+      "solar_lcoe_2025_woIRA": 39.95930155077698,
+      "wind_lcoe_2025_woIRA": 51.73466118581008
     }
   },
   {
@@ -1390,7 +1456,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2401096224784851
+      "capacity_factor": 0.2401096224784851,
+      "solar_lcoe_2025_woIRA": 37.09062138527191,
+      "wind_lcoe_2025_woIRA": 39.10120673761302
     }
   },
   {
@@ -1431,7 +1499,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1299323588609695
+      "capacity_factor": 0.1299323588609695,
+      "solar_lcoe_2025_woIRA": 37.09062138527191,
+      "wind_lcoe_2025_woIRA": 39.10120673761302
     }
   },
   {
@@ -1472,7 +1542,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.07026922702789307
+      "capacity_factor": 0.07026922702789307,
+      "solar_lcoe_2025_woIRA": 37.07567054825433,
+      "wind_lcoe_2025_woIRA": 35.42769771918633
     }
   },
   {
@@ -1513,7 +1585,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2644311487674713
+      "capacity_factor": 0.2644311487674713,
+      "solar_lcoe_2025_woIRA": 37.07567054825433,
+      "wind_lcoe_2025_woIRA": 35.42769771918633
     }
   },
   {
@@ -1554,7 +1628,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.3102273046970367
+      "capacity_factor": 0.3102273046970367,
+      "solar_lcoe_2025_woIRA": 37.07567054825433,
+      "wind_lcoe_2025_woIRA": 35.42769771918633
     }
   },
   {
@@ -1595,7 +1671,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.3283050656318665
+      "capacity_factor": 0.3283050656318665,
+      "solar_lcoe_2025_woIRA": 36.63160741838884,
+      "wind_lcoe_2025_woIRA": 50.97770394281029
     }
   },
   {
@@ -1636,7 +1714,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2746278345584869
+      "capacity_factor": 0.2746278345584869,
+      "solar_lcoe_2025_woIRA": 36.63160741838884,
+      "wind_lcoe_2025_woIRA": 50.97770394281029
     }
   },
   {
@@ -1677,7 +1757,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1847166866064072
+      "capacity_factor": 0.1847166866064072,
+      "solar_lcoe_2025_woIRA": 36.63160741838884,
+      "wind_lcoe_2025_woIRA": 50.97770394281029
     }
   },
   {
@@ -1718,7 +1800,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1639740318059921
+      "capacity_factor": 0.1639740318059921,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -1759,7 +1843,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.181022435426712
+      "capacity_factor": 0.181022435426712,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -1800,7 +1886,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -1841,7 +1929,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -1882,7 +1972,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0
+      "capacity_factor": 0.0,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -1923,7 +2015,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1853794604539871
+      "capacity_factor": 0.1853794604539871,
+      "solar_lcoe_2025_woIRA": 37.52655733975423,
+      "wind_lcoe_2025_woIRA": 45.97843125183204
     }
   },
   {
@@ -1964,7 +2058,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1979954093694687
+      "capacity_factor": 0.1979954093694687,
+      "solar_lcoe_2025_woIRA": 37.52655733975423,
+      "wind_lcoe_2025_woIRA": 45.97843125183204
     }
   },
   {
@@ -1973,7 +2069,7 @@
       "eia_unit_id": "CTG1",
       "plant_name": "Sunbury Generation L",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Capital Power Corporation",
       "technology": "ogs",
       "capacity_mw": 18.0,
       "total_plant_capacity": 36.0,
@@ -2005,7 +2101,9 @@
       "install_wind_capacity_mw_2027_woIRA": 23.52212200507217,
       "install_wind_capacity_mw_2030_woIRA": 23.52212200507217,
       "install_wind_capacity_mw_2035_woIRA": 23.52212200507217,
-      "capacity_factor": 0.000137480310513638
+      "capacity_factor": 0.000137480310513638,
+      "solar_lcoe_2025_woIRA": 37.35025665670248,
+      "wind_lcoe_2025_woIRA": 33.90707022050643
     }
   },
   {
@@ -2014,7 +2112,7 @@
       "eia_unit_id": "CTG2",
       "plant_name": "Sunbury Generation L",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Capital Power Corporation",
       "technology": "ogs",
       "capacity_mw": 18.0,
       "total_plant_capacity": 36.0,
@@ -2046,7 +2144,9 @@
       "install_wind_capacity_mw_2027_woIRA": 23.52212200507217,
       "install_wind_capacity_mw_2030_woIRA": 23.52212200507217,
       "install_wind_capacity_mw_2035_woIRA": 23.52212200507217,
-      "capacity_factor": 0.000137480310513638
+      "capacity_factor": 0.000137480310513638,
+      "solar_lcoe_2025_woIRA": 37.35025665670248,
+      "wind_lcoe_2025_woIRA": 33.90707022050643
     }
   },
   {
@@ -2055,7 +2155,7 @@
       "eia_unit_id": "7",
       "plant_name": "Chester Generating S",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 39.0,
@@ -2087,7 +2187,9 @@
       "install_wind_capacity_mw_2027_woIRA": 16.98819922588545,
       "install_wind_capacity_mw_2030_woIRA": 16.98819922588545,
       "install_wind_capacity_mw_2035_woIRA": 16.98819922588545,
-      "capacity_factor": 0.0002611460513435304
+      "capacity_factor": 0.0002611460513435304,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -2096,7 +2198,7 @@
       "eia_unit_id": "8",
       "plant_name": "Chester Generating S",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 39.0,
@@ -2128,7 +2230,9 @@
       "install_wind_capacity_mw_2027_woIRA": 16.98819922588545,
       "install_wind_capacity_mw_2030_woIRA": 16.98819922588545,
       "install_wind_capacity_mw_2035_woIRA": 16.98819922588545,
-      "capacity_factor": 0.0002611460513435304
+      "capacity_factor": 0.0002611460513435304,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -2137,7 +2241,7 @@
       "eia_unit_id": "9",
       "plant_name": "Chester Generating S",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 39.0,
@@ -2169,7 +2273,9 @@
       "install_wind_capacity_mw_2027_woIRA": 16.98819922588545,
       "install_wind_capacity_mw_2030_woIRA": 16.98819922588545,
       "install_wind_capacity_mw_2035_woIRA": 16.98819922588545,
-      "capacity_factor": 0.0002611460513435304
+      "capacity_factor": 0.0002611460513435304,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -2178,7 +2284,7 @@
       "eia_unit_id": "10",
       "plant_name": "Delaware Generating",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 56.0,
@@ -2210,7 +2316,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0002498639514669776
+      "capacity_factor": 0.0002498639514669776,
+      "solar_lcoe_2025_woIRA": 36.45419187751009,
+      "wind_lcoe_2025_woIRA": 59.44584715868734
     }
   },
   {
@@ -2219,7 +2327,7 @@
       "eia_unit_id": "11",
       "plant_name": "Delaware Generating",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 56.0,
@@ -2251,7 +2359,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0002498639514669776
+      "capacity_factor": 0.0002498639514669776,
+      "solar_lcoe_2025_woIRA": 36.45419187751009,
+      "wind_lcoe_2025_woIRA": 59.44584715868734
     }
   },
   {
@@ -2260,7 +2370,7 @@
       "eia_unit_id": "12",
       "plant_name": "Delaware Generating",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 56.0,
@@ -2292,7 +2402,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0002498639514669776
+      "capacity_factor": 0.0002498639514669776,
+      "solar_lcoe_2025_woIRA": 36.45419187751009,
+      "wind_lcoe_2025_woIRA": 59.44584715868734
     }
   },
   {
@@ -2301,7 +2413,7 @@
       "eia_unit_id": "9",
       "plant_name": "Delaware Generating",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 56.0,
@@ -2333,7 +2445,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0002498639514669776
+      "capacity_factor": 0.0002498639514669776,
+      "solar_lcoe_2025_woIRA": 36.45419187751009,
+      "wind_lcoe_2025_woIRA": 59.44584715868734
     }
   },
   {
@@ -2374,7 +2488,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0048937391221502
+      "capacity_factor": 0.0048937391221502,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -2415,7 +2531,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0048937391221502
+      "capacity_factor": 0.0048937391221502,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -2456,7 +2574,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0042653840234322
+      "capacity_factor": 0.0042653840234322,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -2497,7 +2617,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0024339101177601
+      "capacity_factor": 0.0024339101177601,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -2538,7 +2660,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0042653840234322
+      "capacity_factor": 0.0042653840234322,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -2579,7 +2703,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0029232756548906
+      "capacity_factor": 0.0029232756548906,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -2588,7 +2714,7 @@
       "eia_unit_id": "1",
       "plant_name": "Falls",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 51.0,
@@ -2620,7 +2746,9 @@
       "install_wind_capacity_mw_2027_woIRA": 22.24809018856565,
       "install_wind_capacity_mw_2030_woIRA": 22.24809018856565,
       "install_wind_capacity_mw_2035_woIRA": 22.24809018856565,
-      "capacity_factor": 0.0003347280726302415
+      "capacity_factor": 0.0003347280726302415,
+      "solar_lcoe_2025_woIRA": 36.57303747639922,
+      "wind_lcoe_2025_woIRA": 50.06499197964371
     }
   },
   {
@@ -2629,7 +2757,7 @@
       "eia_unit_id": "2",
       "plant_name": "Falls",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 51.0,
@@ -2661,7 +2789,9 @@
       "install_wind_capacity_mw_2027_woIRA": 22.24809018856565,
       "install_wind_capacity_mw_2030_woIRA": 22.24809018856565,
       "install_wind_capacity_mw_2035_woIRA": 22.24809018856565,
-      "capacity_factor": 0.0003347280726302415
+      "capacity_factor": 0.0003347280726302415,
+      "solar_lcoe_2025_woIRA": 36.57303747639922,
+      "wind_lcoe_2025_woIRA": 50.06499197964371
     }
   },
   {
@@ -2670,7 +2800,7 @@
       "eia_unit_id": "3",
       "plant_name": "Falls",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 51.0,
@@ -2702,7 +2832,9 @@
       "install_wind_capacity_mw_2027_woIRA": 22.24809018856565,
       "install_wind_capacity_mw_2030_woIRA": 22.24809018856565,
       "install_wind_capacity_mw_2035_woIRA": 22.24809018856565,
-      "capacity_factor": 0.0003347280726302415
+      "capacity_factor": 0.0003347280726302415,
+      "solar_lcoe_2025_woIRA": 36.57303747639922,
+      "wind_lcoe_2025_woIRA": 50.06499197964371
     }
   },
   {
@@ -2711,7 +2843,7 @@
       "eia_unit_id": "1",
       "plant_name": "Moser Generating Sta",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 51.0,
@@ -2743,7 +2875,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 22.21533744923482,
       "install_wind_capacity_mw_2035_woIRA": 22.21533744923482,
-      "capacity_factor": 0.0003347280726302415
+      "capacity_factor": 0.0003347280726302415,
+      "solar_lcoe_2025_woIRA": 36.60122599294444,
+      "wind_lcoe_2025_woIRA": 52.08520057786453
     }
   },
   {
@@ -2752,7 +2886,7 @@
       "eia_unit_id": "2",
       "plant_name": "Moser Generating Sta",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 51.0,
@@ -2784,7 +2918,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 22.21533744923482,
       "install_wind_capacity_mw_2035_woIRA": 22.21533744923482,
-      "capacity_factor": 0.0003347280726302415
+      "capacity_factor": 0.0003347280726302415,
+      "solar_lcoe_2025_woIRA": 36.60122599294444,
+      "wind_lcoe_2025_woIRA": 52.08520057786453
     }
   },
   {
@@ -2793,7 +2929,7 @@
       "eia_unit_id": "3",
       "plant_name": "Moser Generating Sta",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 51.0,
@@ -2825,7 +2961,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 22.21533744923482,
       "install_wind_capacity_mw_2035_woIRA": 22.21533744923482,
-      "capacity_factor": 0.0003347280726302415
+      "capacity_factor": 0.0003347280726302415,
+      "solar_lcoe_2025_woIRA": 36.60122599294444,
+      "wind_lcoe_2025_woIRA": 52.08520057786453
     }
   },
   {
@@ -2834,7 +2972,7 @@
       "eia_unit_id": "91",
       "plant_name": "Richmond Generating",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 98.0,
@@ -2866,7 +3004,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0002154026733478531
+      "capacity_factor": 0.0002154026733478531,
+      "solar_lcoe_2025_woIRA": 36.35532690872718,
+      "wind_lcoe_2025_woIRA": 59.49779109201905
     }
   },
   {
@@ -2875,7 +3015,7 @@
       "eia_unit_id": "92",
       "plant_name": "Richmond Generating",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 98.0,
@@ -2907,7 +3047,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0002154026733478531
+      "capacity_factor": 0.0002154026733478531,
+      "solar_lcoe_2025_woIRA": 36.35532690872718,
+      "wind_lcoe_2025_woIRA": 59.49779109201905
     }
   },
   {
@@ -2916,7 +3058,7 @@
       "eia_unit_id": "10",
       "plant_name": "Schuylkill Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 30.0,
@@ -2948,7 +3090,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.000340385886374861
+      "capacity_factor": 0.000340385886374861,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -2957,7 +3101,7 @@
       "eia_unit_id": "11",
       "plant_name": "Schuylkill Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 17.0,
       "total_plant_capacity": 30.0,
@@ -2989,7 +3133,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.000340385886374861
+      "capacity_factor": 0.000340385886374861,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -2998,7 +3144,7 @@
       "eia_unit_id": "3",
       "plant_name": "Southwark",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 52.0,
@@ -3030,7 +3176,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0001820881443563849
+      "capacity_factor": 0.0001820881443563849,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -3039,7 +3187,7 @@
       "eia_unit_id": "4",
       "plant_name": "Southwark",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 52.0,
@@ -3071,7 +3219,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0001820881443563849
+      "capacity_factor": 0.0001820881443563849,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -3080,7 +3230,7 @@
       "eia_unit_id": "5",
       "plant_name": "Southwark",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 52.0,
@@ -3112,7 +3262,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0001820881443563849
+      "capacity_factor": 0.0001820881443563849,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -3121,7 +3273,7 @@
       "eia_unit_id": "6",
       "plant_name": "Southwark",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 13.0,
       "total_plant_capacity": 52.0,
@@ -3153,7 +3305,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0001820881443563849
+      "capacity_factor": 0.0001820881443563849,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -3194,7 +3348,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2847338318824768
+      "capacity_factor": 0.2847338318824768,
+      "solar_lcoe_2025_woIRA": 37.5580083092798,
+      "wind_lcoe_2025_woIRA": 51.61508513131418
     }
   },
   {
@@ -3235,7 +3391,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5972388386726379
+      "capacity_factor": 0.5972388386726379,
+      "solar_lcoe_2025_woIRA": 37.5580083092798,
+      "wind_lcoe_2025_woIRA": 51.61508513131418
     }
   },
   {
@@ -3276,7 +3434,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6030258536338806
+      "capacity_factor": 0.6030258536338806,
+      "solar_lcoe_2025_woIRA": 37.5580083092798,
+      "wind_lcoe_2025_woIRA": 51.61508513131418
     }
   },
   {
@@ -3285,7 +3445,7 @@
       "eia_unit_id": "Gen2",
       "plant_name": "Archbald Power Stati",
       "rto_name": "PJM",
-      "parent_company_name": "BP AMERICA INC",
+      "parent_company_name": "PEI Power Corp",
       "technology": "gas_ct",
       "capacity_mw": 43.7,
       "total_plant_capacity": 43.7,
@@ -3317,7 +3477,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1267087161540985
+      "capacity_factor": 0.1267087161540985,
+      "solar_lcoe_2025_woIRA": 37.86296959020828,
+      "wind_lcoe_2025_woIRA": 42.05657343404542
     }
   },
   {
@@ -3358,7 +3520,9 @@
       "install_wind_capacity_mw_2027_woIRA": 39.20353667512027,
       "install_wind_capacity_mw_2030_woIRA": 39.20353667512027,
       "install_wind_capacity_mw_2035_woIRA": 39.20353667512027,
-      "capacity_factor": 0.4647180438041687
+      "capacity_factor": 0.4647180438041687,
+      "solar_lcoe_2025_woIRA": 37.19680720379604,
+      "wind_lcoe_2025_woIRA": 36.39306266283658
     }
   },
   {
@@ -3367,7 +3531,7 @@
       "eia_unit_id": "GEN1",
       "plant_name": "Panther Creek Energy",
       "rto_name": "PJM",
-      "parent_company_name": "STRONGHOLD DIGITIAL MINING",
+      "parent_company_name": "Bitfarms Ltd.",
       "technology": "coal",
       "capacity_mw": 80.0,
       "total_plant_capacity": 80.0,
@@ -3399,7 +3563,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.725460901826484
+      "capacity_factor": 0.725460901826484,
+      "solar_lcoe_2025_woIRA": 37.31077545849197,
+      "wind_lcoe_2025_woIRA": 37.21230183289607
     }
   },
   {
@@ -3440,7 +3606,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.4198501706123352
+      "capacity_factor": 0.4198501706123352,
+      "solar_lcoe_2025_woIRA": 36.89197578270936,
+      "wind_lcoe_2025_woIRA": 56.52374601243721
     }
   },
   {
@@ -3449,7 +3617,7 @@
       "eia_unit_id": "GEN1",
       "plant_name": "Scrubgrass Reclamati",
       "rto_name": "PJM",
-      "parent_company_name": "Q POWER LLC",
+      "parent_company_name": "Bitfarms Ltd.",
       "technology": "coal",
       "capacity_mw": 83.2,
       "total_plant_capacity": 83.2,
@@ -3481,7 +3649,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5170162671232876
+      "capacity_factor": 0.5170162671232876,
+      "solar_lcoe_2025_woIRA": 37.63063994743239,
+      "wind_lcoe_2025_woIRA": 41.18150852142442
     }
   },
   {
@@ -3522,7 +3692,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7342448830604553
+      "capacity_factor": 0.7342448830604553,
+      "solar_lcoe_2025_woIRA": 37.04515205068665,
+      "wind_lcoe_2025_woIRA": 34.7380437830132
     }
   },
   {
@@ -3563,7 +3735,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6221144199371338
+      "capacity_factor": 0.6221144199371338,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -3604,7 +3778,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.730640709400177
+      "capacity_factor": 0.730640709400177,
+      "solar_lcoe_2025_woIRA": 35.99501560536199,
+      "wind_lcoe_2025_woIRA": 58.57860722088344
     }
   },
   {
@@ -3645,7 +3821,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5433743000030518
+      "capacity_factor": 0.5433743000030518,
+      "solar_lcoe_2025_woIRA": 36.83999786368393,
+      "wind_lcoe_2025_woIRA": 44.55411479854288
     }
   },
   {
@@ -3686,7 +3864,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5306735038757324
+      "capacity_factor": 0.5306735038757324,
+      "solar_lcoe_2025_woIRA": 36.83999786368393,
+      "wind_lcoe_2025_woIRA": 44.55411479854288
     }
   },
   {
@@ -3727,7 +3907,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6326764225959778
+      "capacity_factor": 0.6326764225959778,
+      "solar_lcoe_2025_woIRA": 36.83999786368393,
+      "wind_lcoe_2025_woIRA": 44.55411479854288
     }
   },
   {
@@ -3768,7 +3950,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1701321303844452
+      "capacity_factor": 0.1701321303844452,
+      "solar_lcoe_2025_woIRA": 36.99105582735477,
+      "wind_lcoe_2025_woIRA": 40.93891694582413
     }
   },
   {
@@ -3809,7 +3993,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1701321303844452
+      "capacity_factor": 0.1701321303844452,
+      "solar_lcoe_2025_woIRA": 36.99105582735477,
+      "wind_lcoe_2025_woIRA": 40.93891694582413
     }
   },
   {
@@ -3850,7 +4036,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7934973239898682
+      "capacity_factor": 0.7934973239898682,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -3891,7 +4079,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7183968424797058
+      "capacity_factor": 0.7183968424797058,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -3932,7 +4122,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.672717273235321
+      "capacity_factor": 0.672717273235321,
+      "solar_lcoe_2025_woIRA": 36.00866183628465,
+      "wind_lcoe_2025_woIRA": 53.74189871104669
     }
   },
   {
@@ -3973,7 +4165,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.03256228938698769
+      "capacity_factor": 0.03256228938698769,
+      "solar_lcoe_2025_woIRA": 39.32480331739497,
+      "wind_lcoe_2025_woIRA": 49.8598072324905
     }
   },
   {
@@ -4014,7 +4208,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.03256228938698769
+      "capacity_factor": 0.03256228938698769,
+      "solar_lcoe_2025_woIRA": 39.32480331739497,
+      "wind_lcoe_2025_woIRA": 49.8598072324905
     }
   },
   {
@@ -4055,7 +4251,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.03256228938698769
+      "capacity_factor": 0.03256228938698769,
+      "solar_lcoe_2025_woIRA": 39.32480331739497,
+      "wind_lcoe_2025_woIRA": 49.8598072324905
     }
   },
   {
@@ -4096,7 +4294,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.03256228938698769
+      "capacity_factor": 0.03256228938698769,
+      "solar_lcoe_2025_woIRA": 39.32480331739497,
+      "wind_lcoe_2025_woIRA": 49.8598072324905
     }
   },
   {
@@ -4137,7 +4337,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.03256228938698769
+      "capacity_factor": 0.03256228938698769,
+      "solar_lcoe_2025_woIRA": 39.32480331739497,
+      "wind_lcoe_2025_woIRA": 49.8598072324905
     }
   },
   {
@@ -4146,7 +4348,7 @@
       "eia_unit_id": "CT1A",
       "plant_name": "Fairless Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "EDGEWATER GENERATION HOLDINGS LLC",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 191.0,
       "total_plant_capacity": 1280.0,
@@ -4178,7 +4380,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7664485573768616
+      "capacity_factor": 0.7664485573768616,
+      "solar_lcoe_2025_woIRA": 36.11590749265673,
+      "wind_lcoe_2025_woIRA": 50.82164944880778
     }
   },
   {
@@ -4187,7 +4391,7 @@
       "eia_unit_id": "CT1B",
       "plant_name": "Fairless Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "EDGEWATER GENERATION HOLDINGS LLC",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 191.0,
       "total_plant_capacity": 1280.0,
@@ -4219,7 +4423,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7616841793060303
+      "capacity_factor": 0.7616841793060303,
+      "solar_lcoe_2025_woIRA": 36.11590749265673,
+      "wind_lcoe_2025_woIRA": 50.82164944880778
     }
   },
   {
@@ -4228,7 +4434,7 @@
       "eia_unit_id": "CT2A",
       "plant_name": "Fairless Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "EDGEWATER GENERATION HOLDINGS LLC",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 191.0,
       "total_plant_capacity": 1280.0,
@@ -4260,7 +4466,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6794977784156799
+      "capacity_factor": 0.6794977784156799,
+      "solar_lcoe_2025_woIRA": 36.11590749265673,
+      "wind_lcoe_2025_woIRA": 50.82164944880778
     }
   },
   {
@@ -4269,7 +4477,7 @@
       "eia_unit_id": "CT2B",
       "plant_name": "Fairless Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "EDGEWATER GENERATION HOLDINGS LLC",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 191.0,
       "total_plant_capacity": 1280.0,
@@ -4301,7 +4509,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.589841365814209
+      "capacity_factor": 0.589841365814209,
+      "solar_lcoe_2025_woIRA": 36.11590749265673,
+      "wind_lcoe_2025_woIRA": 50.82164944880778
     }
   },
   {
@@ -4310,7 +4520,7 @@
       "eia_unit_id": "ST1",
       "plant_name": "Fairless Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "EDGEWATER GENERATION HOLDINGS LLC",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 258.0,
       "total_plant_capacity": 1280.0,
@@ -4342,7 +4552,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6452234983444214
+      "capacity_factor": 0.6452234983444214,
+      "solar_lcoe_2025_woIRA": 36.11590749265673,
+      "wind_lcoe_2025_woIRA": 50.82164944880778
     }
   },
   {
@@ -4351,7 +4563,7 @@
       "eia_unit_id": "ST2",
       "plant_name": "Fairless Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "EDGEWATER GENERATION HOLDINGS LLC",
+      "parent_company_name": "Vistra Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 258.0,
       "total_plant_capacity": 1280.0,
@@ -4383,7 +4595,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5316320061683655
+      "capacity_factor": 0.5316320061683655,
+      "solar_lcoe_2025_woIRA": 36.11590749265673,
+      "wind_lcoe_2025_woIRA": 50.82164944880778
     }
   },
   {
@@ -4424,7 +4638,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7043463587760925
+      "capacity_factor": 0.7043463587760925,
+      "solar_lcoe_2025_woIRA": 36.60255519499766,
+      "wind_lcoe_2025_woIRA": 50.72084134229766
     }
   },
   {
@@ -4465,7 +4681,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5854951739311218
+      "capacity_factor": 0.5854951739311218,
+      "solar_lcoe_2025_woIRA": 36.60255519499766,
+      "wind_lcoe_2025_woIRA": 50.72084134229766
     }
   },
   {
@@ -4506,7 +4724,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6458813548088074
+      "capacity_factor": 0.6458813548088074,
+      "solar_lcoe_2025_woIRA": 36.60255519499766,
+      "wind_lcoe_2025_woIRA": 50.72084134229766
     }
   },
   {
@@ -4547,7 +4767,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1742820888757706
+      "capacity_factor": 0.1742820888757706,
+      "solar_lcoe_2025_woIRA": 37.09062138527191,
+      "wind_lcoe_2025_woIRA": 39.10120673761302
     }
   },
   {
@@ -4588,7 +4810,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1742820888757706
+      "capacity_factor": 0.1742820888757706,
+      "solar_lcoe_2025_woIRA": 37.09062138527191,
+      "wind_lcoe_2025_woIRA": 39.10120673761302
     }
   },
   {
@@ -4629,7 +4853,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1742820888757706
+      "capacity_factor": 0.1742820888757706,
+      "solar_lcoe_2025_woIRA": 37.09062138527191,
+      "wind_lcoe_2025_woIRA": 39.10120673761302
     }
   },
   {
@@ -4670,7 +4896,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.1742820888757706
+      "capacity_factor": 0.1742820888757706,
+      "solar_lcoe_2025_woIRA": 37.09062138527191,
+      "wind_lcoe_2025_woIRA": 39.10120673761302
     }
   },
   {
@@ -4711,7 +4939,9 @@
       "install_wind_capacity_mw_2027_woIRA": 57.49852045684305,
       "install_wind_capacity_mw_2030_woIRA": 57.49852045684305,
       "install_wind_capacity_mw_2035_woIRA": 57.49852045684305,
-      "capacity_factor": 0.1912399381399155
+      "capacity_factor": 0.1912399381399155,
+      "solar_lcoe_2025_woIRA": 36.9092348442863,
+      "wind_lcoe_2025_woIRA": 33.01848128505967
     }
   },
   {
@@ -4752,7 +4982,9 @@
       "install_wind_capacity_mw_2027_woIRA": 57.49852045684305,
       "install_wind_capacity_mw_2030_woIRA": 57.49852045684305,
       "install_wind_capacity_mw_2035_woIRA": 57.49852045684305,
-      "capacity_factor": 0.1912399381399155
+      "capacity_factor": 0.1912399381399155,
+      "solar_lcoe_2025_woIRA": 36.9092348442863,
+      "wind_lcoe_2025_woIRA": 33.01848128505967
     }
   },
   {
@@ -4793,7 +5025,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8750095367431641
+      "capacity_factor": 0.8750095367431641,
+      "solar_lcoe_2025_woIRA": 36.90450748458696,
+      "wind_lcoe_2025_woIRA": 39.07169595785808
     }
   },
   {
@@ -4834,7 +5068,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8706824779510498
+      "capacity_factor": 0.8706824779510498,
+      "solar_lcoe_2025_woIRA": 36.90450748458696,
+      "wind_lcoe_2025_woIRA": 39.07169595785808
     }
   },
   {
@@ -4875,7 +5111,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8504076600074768
+      "capacity_factor": 0.8504076600074768,
+      "solar_lcoe_2025_woIRA": 36.90450748458696,
+      "wind_lcoe_2025_woIRA": 39.07169595785808
     }
   },
   {
@@ -4884,7 +5122,7 @@
       "eia_unit_id": "CTG1",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 113.0,
       "total_plant_capacity": 1372.7,
@@ -4916,7 +5154,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6766535639762878
+      "capacity_factor": 0.6766535639762878,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -4925,7 +5165,7 @@
       "eia_unit_id": "CTG2",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 122.0,
       "total_plant_capacity": 1372.7,
@@ -4957,7 +5197,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6813439130783081
+      "capacity_factor": 0.6813439130783081,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -4966,7 +5208,7 @@
       "eia_unit_id": "CTG3",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 122.0,
       "total_plant_capacity": 1372.7,
@@ -4998,7 +5240,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6768812537193298
+      "capacity_factor": 0.6768812537193298,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -5007,7 +5251,7 @@
       "eia_unit_id": "CTG5",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 216.3,
       "total_plant_capacity": 1372.7,
@@ -5039,7 +5283,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8695533871650696
+      "capacity_factor": 0.8695533871650696,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -5048,7 +5294,7 @@
       "eia_unit_id": "CTG6",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 216.3,
       "total_plant_capacity": 1372.7,
@@ -5080,7 +5326,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8767915964126587
+      "capacity_factor": 0.8767915964126587,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -5089,7 +5337,7 @@
       "eia_unit_id": "STG1",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 188.0,
       "total_plant_capacity": 1372.7,
@@ -5121,7 +5369,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6507080793380737
+      "capacity_factor": 0.6507080793380737,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -5130,7 +5380,7 @@
       "eia_unit_id": "STG2",
       "plant_name": "York Energy Center",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 395.1,
       "total_plant_capacity": 1372.7,
@@ -5162,7 +5412,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6142107248306274
+      "capacity_factor": 0.6142107248306274,
+      "solar_lcoe_2025_woIRA": 36.05034730889841,
+      "wind_lcoe_2025_woIRA": 48.98255099938669
     }
   },
   {
@@ -5203,7 +5455,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2519018054008484
+      "capacity_factor": 0.2519018054008484,
+      "solar_lcoe_2025_woIRA": 34.95905781982734,
+      "wind_lcoe_2025_woIRA": 48.75175417299487
     }
   },
   {
@@ -5244,7 +5498,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.2519018054008484
+      "capacity_factor": 0.2519018054008484,
+      "solar_lcoe_2025_woIRA": 34.95905781982734,
+      "wind_lcoe_2025_woIRA": 48.75175417299487
     }
   },
   {
@@ -5285,7 +5541,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6644473671913147
+      "capacity_factor": 0.6644473671913147,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -5326,7 +5584,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6819464564323425
+      "capacity_factor": 0.6819464564323425,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -5367,7 +5627,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7386162281036377
+      "capacity_factor": 0.7386162281036377,
+      "solar_lcoe_2025_woIRA": 36.94821794415834,
+      "wind_lcoe_2025_woIRA": 57.88985319795994
     }
   },
   {
@@ -5376,7 +5638,7 @@
       "eia_unit_id": "CTG1",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 118.0,
       "total_plant_capacity": 1134.0,
@@ -5408,7 +5670,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.4868497550487518
+      "capacity_factor": 0.4868497550487518,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5417,7 +5681,7 @@
       "eia_unit_id": "CTG2",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 127.0,
       "total_plant_capacity": 1134.0,
@@ -5449,7 +5713,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6084586381912231
+      "capacity_factor": 0.6084586381912231,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5458,7 +5724,7 @@
       "eia_unit_id": "CTG3",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 127.0,
       "total_plant_capacity": 1134.0,
@@ -5490,7 +5756,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5786693692207336
+      "capacity_factor": 0.5786693692207336,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5499,7 +5767,7 @@
       "eia_unit_id": "CTG5",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 118.0,
       "total_plant_capacity": 1134.0,
@@ -5531,7 +5799,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5554013848304749
+      "capacity_factor": 0.5554013848304749,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5540,7 +5810,7 @@
       "eia_unit_id": "CTG6",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 127.0,
       "total_plant_capacity": 1134.0,
@@ -5572,7 +5842,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5496993660926819
+      "capacity_factor": 0.5496993660926819,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5581,7 +5853,7 @@
       "eia_unit_id": "CTG7",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 127.0,
       "total_plant_capacity": 1134.0,
@@ -5613,7 +5885,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5856809616088867
+      "capacity_factor": 0.5856809616088867,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5622,7 +5896,7 @@
       "eia_unit_id": "STG4",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 195.0,
       "total_plant_capacity": 1134.0,
@@ -5654,7 +5928,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6246262192726135
+      "capacity_factor": 0.6246262192726135,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5663,7 +5939,7 @@
       "eia_unit_id": "STG8",
       "plant_name": "Bethlehem Power Plan",
       "rto_name": "PJM",
-      "parent_company_name": "CPN MANAGEMENT LP",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "gas_ccgt",
       "capacity_mw": 195.0,
       "total_plant_capacity": 1134.0,
@@ -5695,7 +5971,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6474635601043701
+      "capacity_factor": 0.6474635601043701,
+      "solar_lcoe_2025_woIRA": 36.78338870168835,
+      "wind_lcoe_2025_woIRA": 49.30518082730165
     }
   },
   {
@@ -5736,7 +6014,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8268430233001709
+      "capacity_factor": 0.8268430233001709,
+      "solar_lcoe_2025_woIRA": 36.99105582735477,
+      "wind_lcoe_2025_woIRA": 40.93891694582413
     }
   },
   {
@@ -5777,7 +6057,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8163168430328369
+      "capacity_factor": 0.8163168430328369,
+      "solar_lcoe_2025_woIRA": 36.99105582735477,
+      "wind_lcoe_2025_woIRA": 40.93891694582413
     }
   },
   {
@@ -5818,7 +6100,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8440309762954712
+      "capacity_factor": 0.8440309762954712,
+      "solar_lcoe_2025_woIRA": 36.99105582735477,
+      "wind_lcoe_2025_woIRA": 40.93891694582413
     }
   },
   {
@@ -5859,7 +6143,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.9012081027030945
+      "capacity_factor": 0.9012081027030945,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -5900,7 +6186,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8871784806251526
+      "capacity_factor": 0.8871784806251526,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -5941,7 +6229,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8458294868469238
+      "capacity_factor": 0.8458294868469238,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -5982,7 +6272,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.9410777688026428
+      "capacity_factor": 0.9410777688026428,
+      "solar_lcoe_2025_woIRA": 35.96152565709223,
+      "wind_lcoe_2025_woIRA": 45.3414158949242
     }
   },
   {
@@ -5991,7 +6283,7 @@
       "eia_unit_id": "101",
       "plant_name": "Hunterstown Power Pl",
       "rto_name": "PJM",
-      "parent_company_name": "PLATINUM EQUITY LLC",
+      "parent_company_name": "LS Power Development, LLC",
       "technology": "gas_ccgt",
       "capacity_mw": 165.0,
       "total_plant_capacity": 810.0,
@@ -6023,7 +6315,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.758435845375061
+      "capacity_factor": 0.758435845375061,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -6032,7 +6326,7 @@
       "eia_unit_id": "201",
       "plant_name": "Hunterstown Power Pl",
       "rto_name": "PJM",
-      "parent_company_name": "PLATINUM EQUITY LLC",
+      "parent_company_name": "LS Power Development, LLC",
       "technology": "gas_ccgt",
       "capacity_mw": 165.0,
       "total_plant_capacity": 810.0,
@@ -6064,7 +6358,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7223793268203735
+      "capacity_factor": 0.7223793268203735,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -6073,7 +6369,7 @@
       "eia_unit_id": "301",
       "plant_name": "Hunterstown Power Pl",
       "rto_name": "PJM",
-      "parent_company_name": "PLATINUM EQUITY LLC",
+      "parent_company_name": "LS Power Development, LLC",
       "technology": "gas_ccgt",
       "capacity_mw": 165.0,
       "total_plant_capacity": 810.0,
@@ -6105,7 +6401,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6934758424758911
+      "capacity_factor": 0.6934758424758911,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -6114,7 +6412,7 @@
       "eia_unit_id": "401",
       "plant_name": "Hunterstown Power Pl",
       "rto_name": "PJM",
-      "parent_company_name": "PLATINUM EQUITY LLC",
+      "parent_company_name": "LS Power Development, LLC",
       "technology": "gas_ccgt",
       "capacity_mw": 315.0,
       "total_plant_capacity": 810.0,
@@ -6146,7 +6444,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6453505158424377
+      "capacity_factor": 0.6453505158424377,
+      "solar_lcoe_2025_woIRA": 36.42183155719778,
+      "wind_lcoe_2025_woIRA": 55.47286130063356
     }
   },
   {
@@ -6187,7 +6487,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.06786616146564484
+      "capacity_factor": 0.06786616146564484,
+      "solar_lcoe_2025_woIRA": 37.5580083092798,
+      "wind_lcoe_2025_woIRA": 51.61508513131418
     }
   },
   {
@@ -6228,7 +6530,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7792603373527527
+      "capacity_factor": 0.7792603373527527,
+      "solar_lcoe_2025_woIRA": 38.01606540187753,
+      "wind_lcoe_2025_woIRA": 50.59475881149057
     }
   },
   {
@@ -6269,7 +6573,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.758081316947937
+      "capacity_factor": 0.758081316947937,
+      "solar_lcoe_2025_woIRA": 38.01606540187753,
+      "wind_lcoe_2025_woIRA": 50.59475881149057
     }
   },
   {
@@ -6278,7 +6584,7 @@
       "eia_unit_id": "GEN1",
       "plant_name": "Hamilton Patriot Gen",
       "rto_name": "PJM",
-      "parent_company_name": "CARLYLE GROUP MANAGEMENT LLC",
+      "parent_company_name": "Q-Generation, LLC",
       "technology": "gas_ccgt",
       "capacity_mw": 412.5,
       "total_plant_capacity": 795.0,
@@ -6310,7 +6616,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8305578827857971
+      "capacity_factor": 0.8305578827857971,
+      "solar_lcoe_2025_woIRA": 37.76659072064459,
+      "wind_lcoe_2025_woIRA": 44.7317250967054
     }
   },
   {
@@ -6319,7 +6627,7 @@
       "eia_unit_id": "GEN2",
       "plant_name": "Hamilton Patriot Gen",
       "rto_name": "PJM",
-      "parent_company_name": "CARLYLE GROUP MANAGEMENT LLC",
+      "parent_company_name": "Q-Generation, LLC",
       "technology": "gas_ccgt",
       "capacity_mw": 382.5,
       "total_plant_capacity": 795.0,
@@ -6351,7 +6659,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8263242244720459
+      "capacity_factor": 0.8263242244720459,
+      "solar_lcoe_2025_woIRA": 37.76659072064459,
+      "wind_lcoe_2025_woIRA": 44.7317250967054
     }
   },
   {
@@ -6392,7 +6702,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.830562949180603
+      "capacity_factor": 0.830562949180603,
+      "solar_lcoe_2025_woIRA": 37.30811438343139,
+      "wind_lcoe_2025_woIRA": 40.52060205874389
     }
   },
   {
@@ -6433,7 +6745,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.800384521484375
+      "capacity_factor": 0.800384521484375,
+      "solar_lcoe_2025_woIRA": 37.30811438343139,
+      "wind_lcoe_2025_woIRA": 40.52060205874389
     }
   },
   {
@@ -6474,7 +6788,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.5842999219894409
+      "capacity_factor": 0.5842999219894409,
+      "solar_lcoe_2025_woIRA": 37.87047085896376,
+      "wind_lcoe_2025_woIRA": 38.19621745605769
     }
   },
   {
@@ -6515,7 +6831,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7596002221107483
+      "capacity_factor": 0.7596002221107483,
+      "solar_lcoe_2025_woIRA": 37.87047085896376,
+      "wind_lcoe_2025_woIRA": 38.19621745605769
     }
   },
   {
@@ -6556,7 +6874,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8458608984947205
+      "capacity_factor": 0.8458608984947205,
+      "solar_lcoe_2025_woIRA": 37.87047085896376,
+      "wind_lcoe_2025_woIRA": 38.19621745605769
     }
   },
   {
@@ -6597,7 +6917,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7934300303459167
+      "capacity_factor": 0.7934300303459167,
+      "solar_lcoe_2025_woIRA": 37.35025665670248,
+      "wind_lcoe_2025_woIRA": 33.90707022050643
     }
   },
   {
@@ -6638,7 +6960,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7691926956176758
+      "capacity_factor": 0.7691926956176758,
+      "solar_lcoe_2025_woIRA": 37.35025665670248,
+      "wind_lcoe_2025_woIRA": 33.90707022050643
     }
   },
   {
@@ -6679,7 +7003,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7627383470535278
+      "capacity_factor": 0.7627383470535278,
+      "solar_lcoe_2025_woIRA": 37.35025665670248,
+      "wind_lcoe_2025_woIRA": 33.90707022050643
     }
   },
   {
@@ -6720,7 +7046,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6368075609207153
+      "capacity_factor": 0.6368075609207153,
+      "solar_lcoe_2025_woIRA": 37.35025665670248,
+      "wind_lcoe_2025_woIRA": 33.90707022050643
     }
   },
   {
@@ -6761,7 +7089,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7339902520179749
+      "capacity_factor": 0.7339902520179749,
+      "solar_lcoe_2025_woIRA": 36.97609618020528,
+      "wind_lcoe_2025_woIRA": 36.59415648026975
     }
   },
   {
@@ -6802,7 +7132,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7301731109619141
+      "capacity_factor": 0.7301731109619141,
+      "solar_lcoe_2025_woIRA": 36.97609618020528,
+      "wind_lcoe_2025_woIRA": 36.59415648026975
     }
   },
   {
@@ -6843,7 +7175,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6674199104309082
+      "capacity_factor": 0.6674199104309082,
+      "solar_lcoe_2025_woIRA": 36.97609618020528,
+      "wind_lcoe_2025_woIRA": 36.59415648026975
     }
   },
   {
@@ -6884,7 +7218,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7397568821907043
+      "capacity_factor": 0.7397568821907043,
+      "solar_lcoe_2025_woIRA": 38.28207877724395,
+      "wind_lcoe_2025_woIRA": 40.02263039557042
     }
   },
   {
@@ -6925,7 +7261,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.7825824618339539
+      "capacity_factor": 0.7825824618339539,
+      "solar_lcoe_2025_woIRA": 38.28207877724395,
+      "wind_lcoe_2025_woIRA": 40.02263039557042
     }
   },
   {
@@ -6966,7 +7304,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6623737812042236
+      "capacity_factor": 0.6623737812042236,
+      "solar_lcoe_2025_woIRA": 38.28207877724395,
+      "wind_lcoe_2025_woIRA": 40.02263039557042
     }
   },
   {
@@ -7007,7 +7347,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6477262377738953
+      "capacity_factor": 0.6477262377738953,
+      "solar_lcoe_2025_woIRA": 37.09063027785055,
+      "wind_lcoe_2025_woIRA": 32.47488826155427
     }
   },
   {
@@ -7048,7 +7390,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.6472025513648987
+      "capacity_factor": 0.6472025513648987,
+      "solar_lcoe_2025_woIRA": 37.09063027785055,
+      "wind_lcoe_2025_woIRA": 32.47488826155427
     }
   },
   {
@@ -7089,7 +7433,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.549059271812439
+      "capacity_factor": 0.549059271812439,
+      "solar_lcoe_2025_woIRA": 37.09063027785055,
+      "wind_lcoe_2025_woIRA": 32.47488826155427
     }
   },
   {
@@ -7098,7 +7444,7 @@
       "eia_unit_id": "GEN1",
       "plant_name": "Birdsboro Power",
       "rto_name": "PJM",
-      "parent_company_name": "SOJITZ BIRDSBORO LLC",
+      "parent_company_name": "Strategic Value Partners",
       "technology": "gas_ccgt",
       "capacity_mw": 485.0,
       "total_plant_capacity": 485.0,
@@ -7130,7 +7476,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8046551942825317
+      "capacity_factor": 0.8046551942825317,
+      "solar_lcoe_2025_woIRA": 36.60992161413277,
+      "wind_lcoe_2025_woIRA": 51.56517646350135
     }
   },
   {
@@ -7139,7 +7487,7 @@
       "eia_unit_id": "GEN1",
       "plant_name": "Hill Top Energy Cent",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Blackstone Energy Transition Partners",
       "technology": "gas_ccgt",
       "capacity_mw": 620.7,
       "total_plant_capacity": 620.7,
@@ -7171,7 +7519,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.8719891905784607
+      "capacity_factor": 0.8719891905784607,
+      "solar_lcoe_2025_woIRA": 36.94666488373591,
+      "wind_lcoe_2025_woIRA": 41.99668657237971
     }
   },
   {
@@ -7180,7 +7530,7 @@
       "eia_unit_id": "11",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7212,7 +7562,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7221,7 +7573,7 @@
       "eia_unit_id": "12",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7253,7 +7605,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7262,7 +7616,7 @@
       "eia_unit_id": "21",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7294,7 +7648,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7303,7 +7659,7 @@
       "eia_unit_id": "22",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7335,7 +7691,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7344,7 +7702,7 @@
       "eia_unit_id": "31",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7376,7 +7734,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7385,7 +7745,7 @@
       "eia_unit_id": "32",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 48.0,
       "total_plant_capacity": 391.0,
@@ -7417,7 +7777,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7426,7 +7788,7 @@
       "eia_unit_id": "41",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7458,7 +7820,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   },
   {
@@ -7467,7 +7831,7 @@
       "eia_unit_id": "42",
       "plant_name": "Croydon CT Generatin",
       "rto_name": "PJM",
-      "parent_company_name": "other",
+      "parent_company_name": "Constellation Energy Corp",
       "technology": "ogs",
       "capacity_mw": 49.0,
       "total_plant_capacity": 391.0,
@@ -7499,7 +7863,9 @@
       "install_wind_capacity_mw_2027_woIRA": 0.0,
       "install_wind_capacity_mw_2030_woIRA": 0.0,
       "install_wind_capacity_mw_2035_woIRA": 0.0,
-      "capacity_factor": 0.0004148281295783818
+      "capacity_factor": 0.0004148281295783818,
+      "solar_lcoe_2025_woIRA": 36.58647003307588,
+      "wind_lcoe_2025_woIRA": 55.99186860624175
     }
   }
 ]

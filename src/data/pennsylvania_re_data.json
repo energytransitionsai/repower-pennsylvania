@@ -28,7 +28,9 @@
       "current_cf": 0.5155255298406477,
       "generator_operating_date": 2001,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.29828615599683,
+      "wind_lcoe_2025_woIRA": 46.79879903822585
     }
   },
   {
@@ -60,7 +62,9 @@
       "current_cf": 0.3492700049255939,
       "generator_operating_date": 2003,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.46423044058303,
+      "wind_lcoe_2025_woIRA": 55.3606589970243
     }
   },
   {
@@ -92,7 +96,9 @@
       "current_cf": 0.5304370317481047,
       "generator_operating_date": 2003,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 38.33217314435036,
+      "wind_lcoe_2025_woIRA": 41.47995376831138
     }
   },
   {
@@ -100,7 +106,7 @@
       "fac_id_eia": "us_re_plant_95",
       "plant_name": "Wind Park Bear Creek",
       "technology": "Wind",
-      "owner": "Wind Park Jersey Member LLC",
+      "owner": "AVANGRID, Inc.",
       "operating_year": 2006,
       "capacity_mw": 24.0,
       "rto_name": "PJM",
@@ -124,7 +130,9 @@
       "current_cf": 0.4817131619217571,
       "generator_operating_date": 2006,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.95824694055555,
+      "wind_lcoe_2025_woIRA": 30.95173839768227
     }
   },
   {
@@ -156,7 +164,9 @@
       "current_cf": 0.5819434861182867,
       "generator_operating_date": 2007,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 38.67897996931362,
+      "wind_lcoe_2025_woIRA": 45.68992873662702
     }
   },
   {
@@ -188,7 +198,9 @@
       "current_cf": 0.5214824605082238,
       "generator_operating_date": 2007,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 38.74556362632109,
+      "wind_lcoe_2025_woIRA": 37.05488359785932
     }
   },
   {
@@ -220,7 +232,9 @@
       "current_cf": 0.5196567161102739,
       "generator_operating_date": 2007,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.69619173796995,
+      "wind_lcoe_2025_woIRA": 37.20882852300448
     }
   },
   {
@@ -252,7 +266,9 @@
       "current_cf": 0.5214824605082238,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.85439645985583,
+      "wind_lcoe_2025_woIRA": 46.26421307933311
     }
   },
   {
@@ -284,7 +300,9 @@
       "current_cf": 0.5932009216929104,
       "generator_operating_date": 2008,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.74642560418022,
+      "wind_lcoe_2025_woIRA": 26.76833765263594
     }
   },
   {
@@ -316,7 +334,9 @@
       "current_cf": 0.5304370317481047,
       "generator_operating_date": 2008,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.93010603119311,
+      "wind_lcoe_2025_woIRA": 28.10863284070826
     }
   },
   {
@@ -348,7 +368,9 @@
       "current_cf": 0.5196567161102739,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.50619732772816,
+      "wind_lcoe_2025_woIRA": 30.55671576148949
     }
   },
   {
@@ -356,7 +378,7 @@
       "fac_id_eia": "us_re_plant_248",
       "plant_name": "South Chestnut LLC",
       "technology": "Wind",
-      "owner": "Unknown",
+      "owner": "AVANGRID, Inc.",
       "operating_year": 2012,
       "capacity_mw": 50.4,
       "rto_name": "PJM",
@@ -380,7 +402,9 @@
       "current_cf": 0.5165078754596174,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.17925007166487,
+      "wind_lcoe_2025_woIRA": 30.74300184406803
     }
   },
   {
@@ -412,7 +436,9 @@
       "current_cf": 0.5932009216929104,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.93770548099244,
+      "wind_lcoe_2025_woIRA": 32.59573094625873
     }
   },
   {
@@ -444,7 +470,9 @@
       "current_cf": 0.4888278899343789,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.33792436310218,
+      "wind_lcoe_2025_woIRA": 30.50124609813919
     }
   },
   {
@@ -476,7 +504,9 @@
       "current_cf": 0.5476674423039395,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.15406814084897,
+      "wind_lcoe_2025_woIRA": 27.22429456058125
     }
   },
   {
@@ -484,7 +514,7 @@
       "fac_id_eia": "us_re_plant_395",
       "plant_name": "PA Solar Park",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2012,
       "capacity_mw": 10.1,
       "rto_name": "PJM",
@@ -508,7 +538,9 @@
       "current_cf": 0.2578757496176947,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.00807269979138,
+      "wind_lcoe_2025_woIRA": 35.01155209564747
     }
   },
   {
@@ -540,7 +572,9 @@
       "current_cf": 0.557160252131781,
       "generator_operating_date": 2011,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.28884839606504,
+      "wind_lcoe_2025_woIRA": 26.76045125881677
     }
   },
   {
@@ -548,7 +582,7 @@
       "fac_id_eia": "us_re_plant_407",
       "plant_name": "Sandy Ridge Wind Farm",
       "technology": "Wind",
-      "owner": "Algonquin Power & Utilities Corp.",
+      "owner": "LS Power Development, LLC",
       "operating_year": 2012,
       "capacity_mw": 50.0,
       "rto_name": "PJM",
@@ -572,7 +606,9 @@
       "current_cf": 0.5385323640350612,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.78254746736632,
+      "wind_lcoe_2025_woIRA": 29.4856978487868
     }
   },
   {
@@ -604,7 +640,9 @@
       "current_cf": 0.4351275447355003,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.42858669562409,
+      "wind_lcoe_2025_woIRA": 34.26549284437004
     }
   },
   {
@@ -636,7 +674,9 @@
       "current_cf": 0.5198572375988137,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 38.72791726973625,
+      "wind_lcoe_2025_woIRA": 42.32412663049535
     }
   },
   {
@@ -668,7 +708,9 @@
       "current_cf": 0.5476674423039395,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.57523327777234,
+      "wind_lcoe_2025_woIRA": 27.22429456058125
     }
   },
   {
@@ -700,7 +742,9 @@
       "current_cf": 0.5226626727394033,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.26423973247847,
+      "wind_lcoe_2025_woIRA": 33.75157806536592
     }
   },
   {
@@ -732,7 +776,9 @@
       "current_cf": 0.5052602114815593,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.95491601130789,
+      "wind_lcoe_2025_woIRA": 29.50926954410848
     }
   },
   {
@@ -764,7 +810,9 @@
       "current_cf": 0.5819434861182867,
       "generator_operating_date": 2016,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.2480411675503,
+      "wind_lcoe_2025_woIRA": 33.22628073311671
     }
   },
   {
@@ -796,7 +844,9 @@
       "current_cf": 0.4367301781420119,
       "generator_operating_date": 2019,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.14661278052155,
+      "wind_lcoe_2025_woIRA": 41.91362749571196
     }
   },
   {
@@ -828,7 +878,9 @@
       "current_cf": 0.2612360496244025,
       "generator_operating_date": 2019,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.40763395401552,
+      "wind_lcoe_2025_woIRA": 35.89086173301241
     }
   },
   {
@@ -860,7 +912,9 @@
       "current_cf": 0.2605621367932702,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.98796899101375,
+      "wind_lcoe_2025_woIRA": 50.59421603638743
     }
   },
   {
@@ -892,7 +946,9 @@
       "current_cf": 0.2609363824280871,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.27812736929449,
+      "wind_lcoe_2025_woIRA": 33.09431615464344
     }
   },
   {
@@ -924,7 +980,9 @@
       "current_cf": 0.2585915467071914,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.17827707623749,
+      "wind_lcoe_2025_woIRA": 33.0614331935382
     }
   },
   {
@@ -956,7 +1014,9 @@
       "current_cf": 0.2638716971341434,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.81090299424763,
+      "wind_lcoe_2025_woIRA": 69.88236521791586
     }
   },
   {
@@ -988,7 +1048,9 @@
       "current_cf": 0.2629360897676273,
       "generator_operating_date": 2022,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.67207552379769,
+      "wind_lcoe_2025_woIRA": 47.36470987591201
     }
   },
   {
@@ -996,7 +1058,7 @@
       "fac_id_eia": "us_re_plant_1993",
       "plant_name": "CL-Viaduct LLC",
       "technology": "Solar",
-      "owner": "BCD Project Holdings",
+      "owner": "BlackRock (via DSD Renewables)",
       "operating_year": 2023,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1020,7 +1082,9 @@
       "current_cf": 0.2483163606413133,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 37.13065088746565,
+      "wind_lcoe_2025_woIRA": 34.78332267320486
     }
   },
   {
@@ -1028,7 +1092,7 @@
       "fac_id_eia": "us_re_plant_1995",
       "plant_name": "UN-School House LLC",
       "technology": "Solar",
-      "owner": "BCD Project Holdings",
+      "owner": "BlackRock (via DSD Renewables)",
       "operating_year": 2023,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1052,7 +1116,9 @@
       "current_cf": 0.250100324211261,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.86579825794353,
+      "wind_lcoe_2025_woIRA": 39.71815693905753
     }
   },
   {
@@ -1060,7 +1126,7 @@
       "fac_id_eia": "us_re_plant_2057",
       "plant_name": "Cottontail Solar 1",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1084,7 +1150,9 @@
       "current_cf": 0.2648840729386955,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.4170937165601,
+      "wind_lcoe_2025_woIRA": 64.22614351363819
     }
   },
   {
@@ -1092,7 +1160,7 @@
       "fac_id_eia": "us_re_plant_2058",
       "plant_name": "Cottontail Solar 2",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1116,7 +1184,9 @@
       "current_cf": 0.2649782765987862,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.74000605913504,
+      "wind_lcoe_2025_woIRA": 35.77861952286565
     }
   },
   {
@@ -1124,7 +1194,7 @@
       "fac_id_eia": "us_re_plant_2059",
       "plant_name": "Cottontail Solar 4",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1148,7 +1218,9 @@
       "current_cf": 0.2554344887887562,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 37.13895119754678,
+      "wind_lcoe_2025_woIRA": 34.48579660290314
     }
   },
   {
@@ -1156,7 +1228,7 @@
       "fac_id_eia": "us_re_plant_2060",
       "plant_name": "Cottontail Solar 5",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1180,7 +1252,9 @@
       "current_cf": 0.2572096873311957,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.71254312842547,
+      "wind_lcoe_2025_woIRA": 35.01116967861153
     }
   },
   {
@@ -1188,7 +1262,7 @@
       "fac_id_eia": "us_re_plant_2061",
       "plant_name": "Cottontail Solar 6",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1212,7 +1286,9 @@
       "current_cf": 0.257555913472105,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.66453562658742,
+      "wind_lcoe_2025_woIRA": 34.90420745599439
     }
   },
   {
@@ -1220,7 +1296,7 @@
       "fac_id_eia": "us_re_plant_2062",
       "plant_name": "Cottontail Solar 8",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Lightsource BP",
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
@@ -1244,7 +1320,9 @@
       "current_cf": 0.2649782765987862,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.66552869831078,
+      "wind_lcoe_2025_woIRA": 44.59225544754837
     }
   },
   {
@@ -1276,7 +1354,9 @@
       "current_cf": 0.2499668852773688,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.87886584267859,
+      "wind_lcoe_2025_woIRA": 46.66141077702052
     }
   },
   {
@@ -1308,7 +1388,9 @@
       "current_cf": 0.2568837337678009,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.48897327456215,
+      "wind_lcoe_2025_woIRA": 47.27889915768285
     }
   },
   {
@@ -1316,7 +1398,7 @@
       "fac_id_eia": "us_re_plant_2185",
       "plant_name": "Sandy Ridge Wind 2, LLC",
       "technology": "Wind",
-      "owner": "Algonquin Power & Utilities Corp; Ares Management LLC",
+      "owner": "LS Power Development, LLC",
       "operating_year": 2023,
       "capacity_mw": 87.6,
       "rto_name": "PJM",
@@ -1340,7 +1422,9 @@
       "current_cf": 0.5385323640350612,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.13454499571326,
+      "wind_lcoe_2025_woIRA": 44.79949076656914
     }
   },
   {
@@ -1348,7 +1432,7 @@
       "fac_id_eia": "us_re_plant_2221",
       "plant_name": "Gans Solar",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Oriden (Mitsubishi Heavy Industries)",
       "operating_year": 2024,
       "capacity_mw": 14.0,
       "rto_name": "PJM",
@@ -1372,7 +1456,9 @@
       "current_cf": 0.2494993460704538,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.8952747955563,
+      "wind_lcoe_2025_woIRA": 32.86445946368044
     }
   },
   {
@@ -1380,7 +1466,7 @@
       "fac_id_eia": "us_re_plant_2222",
       "plant_name": "Pechin Solar",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Oriden (Mitsubishi Heavy Industries)",
       "operating_year": 2024,
       "capacity_mw": 14.0,
       "rto_name": "PJM",
@@ -1404,7 +1490,9 @@
       "current_cf": 0.25087641236186,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.04377975209675,
+      "wind_lcoe_2025_woIRA": 28.46585141574965
     }
   },
   {
@@ -1412,7 +1500,7 @@
       "fac_id_eia": "us_re_plant_2234",
       "plant_name": "Listonburg Solar",
       "technology": "Solar",
-      "owner": null,
+      "owner": "Oriden (Mitsubishi Heavy Industries)",
       "operating_year": 2024,
       "capacity_mw": 15.0,
       "rto_name": "PJM",
@@ -1436,7 +1524,9 @@
       "current_cf": 0.2555786080923736,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.01767379237746,
+      "wind_lcoe_2025_woIRA": 28.96952974711558
     }
   },
   {
@@ -1468,7 +1558,9 @@
       "current_cf": 0.2605621367932702,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.91222934994498,
+      "wind_lcoe_2025_woIRA": 31.26723978410319
     }
   },
   {
@@ -1500,7 +1592,9 @@
       "current_cf": 0.2614584127079036,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.79255069830615,
+      "wind_lcoe_2025_woIRA": 41.76176325867123
     }
   },
   {
@@ -1532,7 +1626,9 @@
       "current_cf": 0.2634247004489771,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.607764369921,
+      "wind_lcoe_2025_woIRA": 78.880712159419
     }
   },
   {
@@ -1564,7 +1660,9 @@
       "current_cf": 0.2511296246645554,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 36.3021287294662,
+      "wind_lcoe_2025_woIRA": 64.77747464367731
     }
   },
   {
@@ -1596,7 +1694,9 @@
       "current_cf": 0.2511296246645554,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 37.77558711349783,
+      "wind_lcoe_2025_woIRA": 40.03249760478239
     }
   },
   {
@@ -1628,7 +1728,9 @@
       "current_cf": 0.2605621367932702,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 34.70394533700582,
+      "wind_lcoe_2025_woIRA": 31.26723978410319
     }
   },
   {
@@ -1636,7 +1738,7 @@
       "fac_id_eia": "us_re_plant_2479",
       "plant_name": "Spring Lane",
       "technology": "Solar",
-      "owner": null,
+      "owner": "MN8 Energy LLC",
       "operating_year": 2024,
       "capacity_mw": 13.8,
       "rto_name": "PJM",
@@ -1660,7 +1762,9 @@
       "current_cf": 0.254907151442154,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing"
+      "operational_status": "existing",
+      "solar_lcoe_2025_woIRA": 35.76415926653214,
+      "wind_lcoe_2025_woIRA": 48.55796065451422
     }
   }
 ]
