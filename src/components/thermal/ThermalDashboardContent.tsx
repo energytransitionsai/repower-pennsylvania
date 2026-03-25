@@ -479,8 +479,8 @@ export default function ThermalDashboardContent({}) {
       if (typeof value !== "boolean" && value && filteredPlants.length > 0) {
         const bounds = new mapboxgl.LngLatBounds();
         filteredPlants.forEach((plant) => {
-          if (plant.geometry?.coordinates) {
-            bounds.extend(plant.geometry.coordinates);
+          if ((plant as any).geometry?.coordinates) {
+            bounds.extend((plant as any).geometry.coordinates);
           }
         });
 

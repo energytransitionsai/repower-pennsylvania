@@ -192,9 +192,9 @@ export default function ThermalDashboardContentGmap({}) {
 
     const loadAllFeatures = () => {
       console.log("loading features");
-      const plants = plantsData.map((plant) => ({
+      const plants = plantsData.map((plant: any) => ({
         ...plant.properties,
-        geometry: plant.geometry,
+        geometry: (plant as any).geometry,
       }));
       setAllPlants(plants);
       setFilteredPlants(plants);
@@ -563,9 +563,11 @@ export default function ThermalDashboardContentGmap({}) {
       if (typeof value !== "boolean" && value && filteredPlants.length > 0) {
         const bounds = new google.maps.LatLngBounds();
         filteredPlants.forEach((plant) => {
-          if (plant.geometry?.coordinates) {
-            const [lng, lat] = plant.geometry.coordinates;
+          if ((plant as any).geometry?.coordinates) {
+            const [lng, lat] = (plant as any).geometry.coordinates;
             bounds.extend(new google.maps.LatLng(lat, lng));
+          } else if (plant.latitude && plant.longitude) {
+            bounds.extend(new google.maps.LatLng(plant.latitude, plant.longitude));
           }
         });
 
