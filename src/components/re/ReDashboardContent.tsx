@@ -182,9 +182,9 @@ export default function ReDashboardContent({}) {
 
     const loadAllFeatures = () => {
       console.log("loading features");
-      const plants = plantsData.map((plant) => ({
+      const plants = plantsData.map((plant: any) => ({
         ...plant.properties,
-        geometry: plant.geometry,
+        geometry: (plant as any).geometry,
       }));
       setAllPlants(plants);
       setFilteredPlants(plants);
