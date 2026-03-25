@@ -140,7 +140,7 @@ export default function ThermalDashoardFilters({
 
       <TextField
         select
-        label="Parent Company"
+        label="Owner"
         name="parent_company_name"
         value={filters.parent_company_name || ""}
         onChange={handleFilterChange}
@@ -154,7 +154,7 @@ export default function ThermalDashoardFilters({
           shrink: true,
         }}
       >
-        <option value="">Select Parent Company</option>
+        <option value="">Select Owner</option>
         {getUniqueValues("parent_company_name").map((company) => (
           <option key={company} value={company}>
             {company}
