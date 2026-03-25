@@ -1,0 +1,100 @@
+REPOWER PENNSYLVANIA - SURPLUS INTERCONNECTION WEBSITE
+Website URL: http://localhost:3003
+
+================================================================================
+SECTION 1: HERO SECTION (Homepage Header)
+================================================================================
+
+Title:
+Surplus Interconnection in Pennsylvania
+
+Subtitle:
+Accelerating Clean Energy Deployment by Leveraging Existing Grid Infrastructure
+
+Call-to-Action Buttons:
+- Working Paper
+- Factsheet
+- Explore Dashboard
+
+================================================================================
+SECTION 2: PROBLEM AND SOLUTION
+================================================================================
+
+Overview Statement:
+Pennsylvania's clean energy transition faces critical interconnection bottlenecks despite ambitious goals
+
+--- THE PROBLEM ---
+
+1. Massive Queue Bottleneck
+CAISO's interconnection queue has 505 GW of capacity waiting with average delays of 4-5 years. The queue is dominated by solar (152 GW) and storage (308 GW), with 99% being renewable and storage technologies.
+
+2. Rising Electricity Costs
+Pennsylvaniaelectricity rates have surged by 44% since 2020 to reach $295/MWh for residential customers. Capacity prices have more than doubled from $94/MW-day in 2019 to $209/MW-day in 2024, reflecting growing resource adequacy challenges.
+
+3. Economic Opportunity Loss
+Pennsylvaniais losing significant economic opportunities due to power constraints. A Bloomberg survey found access to power is the #1 deciding factor for data center location. Despite Pennsylvania's technological leadership, its data center growth (24% by 2035) dramatically lags behind ERCOT (161%) and the US average (67%) due to high power costs and grid capacity limitations.
+
+--- THE SOLUTION: SURPLUS INTERCONNECTION ---
+
+Policy Framework:
+Surplus Interconnection Service allows new electricity supply resources to connect to the grid using existing infrastructure that serves already operating generators, without exceeding the total output capacity already allocated to the existing resource. FERC Order 845 (2018) cleared a regulatory pathway for generators to add new electricity resources to the grid by utilizing surplus capacity at existing interconnection points.
+
+KEY RESULTS:
+
+1. Available Surplus Capacity
+Pennsylvaniacan add 53 GW of clean energy capacity through surplus interconnection, including 36 GW of solar, 17 GW of wind, and 26 GW of energy storage at existing sites without new transmission.
+
+2. SB100 Goals Comparison
+Surplus interconnection can meet 92% of Pennsylvania's 2035 solar targets and 200% of its wind targets, providing over 100% of combined renewable capacity needed for 2035 SB100 targets.
+
+3. Time & Cost Benefits
+Surplus interconnection projects can be completed in 1-2 years compared to 5 years for new interconnections. RE and storage deployment using surplus interconnection can save $7B in interconnection costs and expensive transmission upgrades.
+
+================================================================================
+SECTION 3: APPROACH - THERMAL AND RENEWABLE INTERCONNECTIONS
+================================================================================
+
+--- THERMAL INTERCONNECTIONS ---
+
+Overview:
+Over 15.7 GW of Pennsylvaniafossil capacity has capacity factor less than 15%, leaving grid connections unused for significant periods. Moreover, 16.1 GW of thermal capacity has variable costs exceeding $50/MWh, with 15.6 GW meeting both criteria. By co-locating new solar and wind generation at these sites, we can bypass lengthy interconnection queues and add cheap electricity while making use of the current infrastructure.
+
+KEY RESULTS:
+
+1. Abundant Local Resources (3,073 GW Solar)
+Over 3,073 GW of solar and 369 GW of wind potential exists near Pennsylvaniathermal plants. This enormous renewable resource can enable clean energy deployment at existing interconnection points.
+
+2. Urban Area Plants (13.8 GW Capacity)
+51 thermal facilities (37% of total) with 13.8 GW capacity are located in urban areas. We removed these plants from the surplus interconnecton analysis though they are great candidates for adding battery storage after the thermal plants get retired.
+
+3. Cost-Effective Today (100% Viable)
+At 100% of existing fossil plants (33.6 GW), building new solar is already cheaper than running the existing plant. For wind, this is true at 25% of plants (8.4 GW). By 2030, this will increase to 40% (13.4 GW).
+
+4. Ready for Renewables (24.08 GW by 2030)
+24.08 GW of renewable energy (15.7 GW solar and 8.4 GW wind) can be economically integrated at Pennsylvaniathermal plants by 2030
+
+5. Quick Wins Available (15.7 GW Ready)
+15.7 GW of Pennsylvaniathermal capacity operates at less than 15% capacity factor, leaving grid connections unused most of the time and creating immediate opportunities for surplus interconnection.
+
+--- RENEWABLE INTERCONNECTIONS ---
+
+Overview:
+Pennsylvaniarenewable plants have low capacity values (11% solar, 17% wind) and poor interconnection utilization (Solar: 25.6%, Wind: 25.8%), meaning expensive grid infrastructure sits idle much of the time. Adding 6-hour storage can dramatically increase capacity value and utilization rates to levels comparable to baseload gas plants, effectively turning variable renewables into firm power resources.
+
+KEY RESULTS:
+
+1. Massive Renewable Potential (1,773 GW Total)
+Pennsylvania's existing renewable sites have enormous potential for additional capacity, with approximately 1,583 GW of solar and 190 GW of wind resource potential within 6 miles of existing RE plants.
+
+2. Significant Storage Potential (26 GW Storage)
+Adding 6-hour battery storage at Pennsylvania's solar and wind sites would deliver 26 GW of firm, dispatchable capacity - helping meet peak demand and enhance grid reliability.
+
+3. Expanded Renewable Capacity (29.1 GW Combined)
+Pennsylvania's existing renewable interconnections can support additional 20.0 GW solar and 9.1 GW wind, representing a 112% increase in clean energy generation capacity with no new grid connections.
+
+4. Maximized Utilization (71.6% Solar | 87.2% Wind)
+Deploying RE and storage at existing interconnections maximizes expensive grid infrastructure usage in Pennsylvania, significantly improving interconnection utilization to 80.2% for solar and 85.1% for wind plants. This transforms intermittent renewables into firm resources comparable to gas CCGT plants.
+
+================================================================================
+END OF WEBSITE CONTENT
+================================================================================

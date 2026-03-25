@@ -1,0 +1,387 @@
+Fantastic—thanks for sharing both files. Below is a **ready‑to‑paste website copy** for *Surplus Interconnection in Pennsylvania*, modeled on your existing structure and aligned with the insights from your Pennsylvania slide deck + recent (2024–25) primary sources. I’ve put the most important numbers in **tables** and included citations after each section. Where I quote results from your Pennsylvania presentation, I say so explicitly and cite the PDF (with page numbers) so there’s a clear provenance chain.
+
+**Surplus Interconnection in Pennsylvania**
+*Accelerating clean energy deployment by using existing grid interconnection capacity*
+
+## SECTION 2 — THE PROBLEM & THE SOLUTION
+
+### Pennsylvania’s challenge
+Pennsylvania sits entirely within the **PJM** footprint. The region has seen **tight capacity margins and rising capacity prices**, while demand growth (including data centers and electrification) pushes interconnection queues and delivery timelines. In short: **power is needed faster than traditional queues can deliver.** ([PJM][1])
+**Market signals & grid realities (2024–25)**
+
+| Signal                                     | 2024–25 status (Pennsylvania / Region)                                                                                                        |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Retail electricity price – Residential** | **16.30 ¢/kWh** in **Jul 2025**, up from 14.80 ¢/kWh in Jul 2024 (**~+10% YoY**)                                                         |
+| **MISO PRA (Capacity) 2025/26**            | **$666.50/MW‑day (summer)** at the system level; seasonal North/Central **$91.60**, South **$74.09** (annualized ~$217 N/C; ~$212 South) |
+| **PJM BRA 2026/27**                        | Cleared at the FERC‑approved cap **$329.17/MW‑day (UCAP)** across PJM                                                                    |
+| **Interconnection backlogs**               | Pennsylvania has **~24–25 GW** of active projects awaiting interconnection (state view from your analysis)                                    |
+| **Data center demand**                     | U.S. data‑center power demand expected to **>2× by 2035**; **power availability now a top site‑selection factor**                        |
+
+**Sources:** EIA Electric Power Monthly (Table 5.6.A, Jul 2025) for retail prices; MISO Planning Resource Auction results 2025/26; PJM 2026/27 BRA news release; your *Pennsylvania* working paper for state queue sizing; BNEF and CBRE for DC demand & siting trends. ([U.S. Energy Information Administration][2])  
+
+> Your slide deck’s **page 3** shows **~24 GW** of active queue capacity in Pennsylvania (with battery and solar dominant), consistent with national LBNL queue data through 2024.   See also LBNL “Queued Up” (2024–25) for methodology and national context. ([Energy Markets & Policy][3])
+
+---
+
+### The solution: Surplus Interconnection Service (SIS)
+
+**Surplus Interconnection** lets a *new* resource share an *existing* generator’s unused interconnection capability **without increasing the site’s maximum export**—bypassing the main queue when upgrades aren’t triggered.
+
+* **Federal basis.** FERC **Order 845** (and 845‑A) established SIS across pro‑forma LGIP/LGIA, opening a compliant pathway to use **unused interconnection service** at existing POIs. ([Federal Energy Regulatory Commission][4])
+* **PJM (Pennsylvania’s PJM footprint).** In **Feb 2025**, FERC **approved PJM proposals** to **streamline SIS** and a parallel **Reliability Resource Initiative** (RRI) to move shovel‑ready projects faster. PJM confirms the less‑restrictive SIS approach is intended to use existing system capability **without additional network upgrades**. ([PJM Inside Lines][5])
+* **PJM (Pennsylvania’s footprint).** In **Feb 2025**, FERC **approved PJM proposals** to **streamline SIS** and a parallel **Reliability Resource Initiative** (RRI) to move shovel‑ready projects faster. PJM confirms the less‑restrictive SIS approach is intended to use existing system capability **without additional network upgrades**.
+
+**Why it helps Pennsylvania (fast + flexible)**
+Independent analyses and RTO materials indicate SIS / replacement paths can often move **in ~1–2 years** (sometimes **≤12 months**) when no network upgrades are triggered—versus **multi‑year timelines** in standard clustered queues. ([Synapse Energy][7])
+
+---
+
+## SECTION 3 — KEY RESULTS FOR INDIANA
+
+*(This section summarizes quantified results from your Pennsylvania analysis; page references shown.)*
+
+| Result                                                         | What it means for Pennsylvania                                                                                                 |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **39 GW** of additional clean capacity via SIS                 | **Total potential** at existing power plants (thermal + renewable) per your Pennsylvania analysis (*slide 22*).                |
+| **$3.3B** in **avoided interconnection costs**                 | Savings from leveraging existing infrastructure (*slide 23*).                                                             |
+| **~21 GW** RE at thermal plant interconnections by **2030**    | Economic potential: **~20 GW solar** + **~1 GW wind** at thermal sites (*slides 16–17*).                                  |
+| **+12 GW** RE enabled by **6 GW** storage at existing RE sites | Storage improves utilization and firm capacity at solar/wind sites (*slide 18*).                                          |
+| **Capacity value boost with storage**                          | In PJM, **6‑hour storage ELCC ~67%** (2027/28 class ratings), complementing solar/wind and supporting firming strategies. |
+
+**Sources:** Your Pennsylvania presentation; PJM ELCC class ratings (storage).  ([PJM][8])
+
+> From your deck: renewable and thermal plants’ **interconnection under‑utilization** plus abundant **near‑site solar/wind resource** support SIS scaling. See *slides 5–7, 14–18 & 21–22*. 
+
+---
+
+## SECTION 4 — HOW SURPLUS INTERCONNECTION WORKS IN INDIANA
+
+### A) Renewables + Storage at **existing renewable plants**
+
+* Your analysis shows **existing RE interconnections** in Pennsylvania can host **+12 GW** of incremental RE enabled by **~6 GW** of 6‑hour storage, materially raising capacity factors and smoothing output (*slides 18 & 21*). 
+* **PJM ELCC:** 6‑hour storage is credited at **~67%** in 2027/28 (and **~58%** in 2026/27), which is **comparable to gas CT accreditation**—making hybrid RE+storage more valuable for RA. ([PJM][8])
+
+### B) New solar/wind at **existing thermal plants**
+
+* Pennsylvania has **115 thermal facilities (~21.6 GW)**; many units show **low capacity factors** or **higher variable costs**, meaning **unused interconnection headroom** exists (*slides 2, 5–6*). 
+* Your siting screen found **>800 GW** of **near‑plant** solar + wind technical potential within 6 miles of thermal POIs (*slide 14*), and **~21 GW** of RE can be economically integrated by **2030** (*slides 16–17*). 
+
+### C) Process & timelines (MISO / PJM)
+
+* **PJM:** FERC‑approved SIS reforms (effective Mar 7, 2025) **allow new generators to use an existing facility’s unused interconnection capability** where **no upgrades are triggered**, avoiding the main queue. ([PJM Inside Lines][5])
+* **MISO:** Submit a **Surplus Interconnection Request** (Tariff **Attachment X**, BPM‑015 §6.7.3). MISO documented portal submission, deposits, and proposed 2025 updates; **COD ≥ 1 year** after SIR submission is required under current rules. ([MISO Energy][6])
+* **Indicative speed:** Independent analysis shows SIS/replacement pathways often complete **~12–24 months** where studies show **no network upgrades**, far shorter than standard clustered queues. ([Synapse Energy][7])
+* **Your deck (slide 28)** illustrates the SIS study/assessment flow that developers can expect to navigate. 
+
+---
+
+## SECTION 5 — WHY THIS MATTERS NOW
+
+### Pennsylvania demand & capacity signals (2024–25)
+
+| Topic             | Takeaway                                                                                                                                                                                        |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Retail prices** | Pennsylvania residential average **16.30 ¢/kWh** (Jul 2025), **~10% YoY**—evidence of tightening supply/demand & infrastructure costs flowing through. ([U.S. Energy Information Administration][2]) |
+| **MISO capacity** | **$666.50/MW‑day (summer)** clearing for 2025/26 highlights the premium on dependable capacity. ([MISO Energy][9])                                                                              |
+| **PJM capacity**  | **$329.17/MW‑day** cap price for 2026/27 across PJM; PJM cites **load growth (data centers, electrification)**.                                                                                 |
+| **Data centers**  | BNEF projects U.S. DC power demand to **more than double by 2035**; site selection now **power‑constrained**. ([BloombergNEF][10])                                                              |
+
+**Implication:** Surplus Interconnection lets Pennsylvania **deliver firmable clean capacity faster** (RE+storage hybrids, or storage at RE sites; solar at thermal sites), **improving reliability** and moderating cost pressures versus waiting on new POIs and network upgrades. ([Synapse Energy][7])  
+
+---
+
+## SECTION 6 — ECONOMICS SNAPSHOT (2024–25 PARAMETERS)
+
+| Technology                                | 2024/25 capital cost references                                                                                                                                                          |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Battery storage (utility‑scale, 4–6h)** | NREL ATB 2024/2025 update provides CAPEX ranges and projections; recent 2025 NREL update shows 4‑hour system CAPEX trajectories (e.g., **~$147–339/kWh in 2035** depending on scenario). |
+| **Gas CCGT/CT**                           | EIA AEO‑2025 capital‑cost report (Sargent & Lundy) provides updated overnight CAPEX for gas technologies.                                                                                |
+
+**Sources:** NREL ATB 2024/2025; NREL 2025 storage cost update; EIA AEO‑2025 capital cost report. ([ATB][11])
+
+> Your *slide 10* makes the same point qualitatively (storage capex vs gas), consistent with the national references above. 
+
+---
+
+## SECTION 7 — PRIORITIZING SITES (INDIANA)
+
+Your analysis ranks candidates by **economic advantage, renewable resource potential, under‑utilization, interconnection headroom, and site viability** (*slide 24*). **Examples (from your ranking):**
+
+**Top thermal candidates** *(see the map on slide 25)*
+
+* **R.M. Schahfer (Jasper Co.)** — gas CT; meaningful SIS potential
+* **Wheatland Generating** — gas CT; SIS potential
+* **Montpelier Electric (Wells Co.)** — gas CT; SIS potential
+* **Anderson** — gas CT; SIS potential
+* **Crawfordsville Power (Montgomery Co.)** — coal; SIS potential
+
+
+**Top renewable candidates** *(see the map on slide 26)*
+
+* **Pennsylvania Crossroads Wind II (White Co.)**
+* **Jordan Creek Wind Farm (Warren Co.)**
+* **Hardy Hills Solar (Clinton Co.)**
+* **Meadow Lake Wind Farm IV (White Co.)**
+* **Headwaters Wind Farm (Randolph Co.)**
+
+
+> Your *slide 14* shows **~1.0 TW** of combined solar + wind technical potential **near existing POIs** (≈**818.5 GW** near thermal; **206.6 GW** near RE plants) supporting large‑scale SIS siting. 
+
+---
+
+## SECTION 8 — POLICY & PROCESS REFERENCES (FOR DEVELOPERS)
+
+| Item                                            | Where to look                                                                                                                                |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Definition: Surplus Interconnection Service** | FERC **Order 845** / **845‑A** (pro‑forma LGIP/LGIA). ([Federal Energy Regulatory Commission][4])                                            |
+| **PJM fast‑track updates**                      | **FERC‑approved (Feb 12, 2025)**: *Inside Lines* on RRI & **SIS streamlining** (effective **Mar 7, 2025**). ([PJM Inside Lines][5])          |
+| **MISO SIS process**                            | **Tariff Attachment X**, **BPM‑015 §6.7.3**, SIR portal materials & 2025 enhancement proposal. ([MISO Energy][12])                           |
+| **RA accreditation context**                    | **PJM ELCC class ratings** (e.g., **6‑hr storage 67%** in **2027/28**). ([PJM][8])                                                           |
+| **Why SIS is fast**                             | Independent review: **“No‑regrets solutions”**—SIS/Replacement can deliver **≤1 year** when upgrades aren’t triggered. ([Synapse Energy][7]) |
+
+---
+
+## SECTION 9 — WHAT WE’LL PUBLISH
+
+**Pages/Sections**
+
+1. **Hero** + CTAs
+2. **Problem** (queues, capacity prices, retail price trend, demand growth)
+3. **Solution: Surplus Interconnection** (policy basis + process by RTO)
+4. **Key Results for Pennsylvania** (39 GW potential; $3.3B avoided costs; 21 GW at thermal; 12 GW at RE sites w/ 6h storage)
+5. **Site Prioritization** (maps & top candidates)
+6. **Method & Data** (pointing to your working paper and sources)
+
+**Primary data/citations embedded throughout** (EIA, MISO, PJM, LBNL/BNEF/NREL; and your Pennsylvania slides).
+   ([U.S. Energy Information Administration][2])
+
+---
+
+## SECTION 10 — OPTIONAL TABLE BLOCKS YOU CAN DROP INTO THE SITE
+
+### A. Pennsylvania market snapshot (numbers ready for a “Factsheet”)
+
+| Metric                                     |                     Value | Source                                                                    |
+| ------------------------------------------ | ------------------------: | ------------------------------------------------------------------------- |
+| Net summer capacity (Pennsylvania, 2025)        |             **29,381 MW** | EIA State data (Jun 2025). ([U.S. Energy Information Administration][13]) |
+| Retail elec. price (Residential, Jul 2025) |           **16.30 ¢/kWh** | EIA EPM Table 5.6.A. ([U.S. Energy Information Administration][2])        |
+| MISO PRA (2025/26) — Summer                |        **$666.50/MW‑day** | MISO PRA results deck. ([MISO Energy][9])                                 |
+| PJM BRA (2026/27)                          | **$329.17/MW‑day** (UCAP) | PJM news release.                                                         |
+| Interconnection queue (Pennsylvania)            |      **≈24–25 GW active** | Your Pennsylvania working paper (slide 3).                                     |
+
+### B. Surplus Interconnection (SIS) policy at a glance
+
+| RTO      | 2024/25 SIS status                                                                                                                                       | Where to read                                       |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **PJM**  | FERC‑approved SIS streamlining (effective Mar 2025); **explicitly** enables using unused interconnection capability where **no upgrades** are triggered. | PJM Inside Lines + filings. ([PJM Inside Lines][5]) |
+| **MISO** | SIS requests under **Attachment X**/**BPM‑015**; SIR portal, deposits, proposed 2025 updates.                                                            | MISO Tariff/BPM/IPWG. ([MISO Energy][12])           |
+
+### C. Pennsylvania SIS potential (from your analysis)
+
+| Component                        |                      2030 Potential | Notes                                              |
+| -------------------------------- | ----------------------------------: | -------------------------------------------------- |
+| **RE at thermal POIs**           |                          **~21 GW** | ~20 GW solar; ~1 GW wind (slides 16–17).           |
+| **RE at RE POIs (with storage)** | **+12 GW** (with **~6 GW** storage) | Raises utilization & firm capacity (slide 18, 21). |
+| **Total (RE + Storage)**         |                          **~39 GW** | Statewide SIS potential (slide 22).                |
+
+**Source:** your *Existing Power Plants Sharing Grid Access…* Pennsylvania presentation. 
+
+---
+
+## SECTION 11 — COMMS & MESSAGING POINTS
+
+* **Faster, cheaper, cleaner:** SIS uses the **grid we already have** to get **firmable** clean capacity online **faster**, helping moderate capacity prices and retail bills. ([MISO Energy][9])
+* **Reliability first:** Pairing **6‑hour storage** with solar/wind **boosts ELCC** (e.g., **67%** in PJM 2027/28), turning variable output into **reliable capacity** that can meet peaks. ([PJM][8])
+* **Pennsylvania‑specific upside:** Your analysis identifies **concrete sites** and **large, near‑POI resource**—so developers can sequence **near‑term** projects while the longer transmission buildout proceeds. 
+
+---
+
+### Source list (quick links)
+
+* **EIA**: Electric Power Monthly (prices), state capacity (2025), capital‑cost report for AEO‑2025. ([U.S. Energy Information Administration][2])
+* **MISO**: PRA results (2025/26), GI Attachment X & BPM‑015, SIS portal/IPWG materials. ([MISO Energy][9])
+* **PJM**: 2026/27 BRA news release; SIS streamlining announcement; ELCC class ratings 2027/28. 
+* **NREL**: ATB 2024/25; 2025 storage CAPEX update. ([ATB][14])
+* **BNEF / CBRE**: Data‑center demand & site selection (power availability). ([BloombergNEF][10])
+* **Your Pennsylvania analysis** (slides): queue, site ranking, SIS potential & savings. 
+* **Prior website content scaffold** (for structure only). 
+
+---
+
+## What I changed vs. your earlier California‑style text
+
+* **Removed CAISO references** and replaced with **MISO/PJM** facts.
+* **Replaced older or approximate numbers** (e.g., retail prices) with **EIA 2025** data.
+* **Anchored SIS policy** to **FERC 845**, **PJM’s 2025 reforms**, and **MISO Tariff/BPM‑015**.
+* **Kept your quantified Pennsylvania findings** (39 GW potential; $3.3B savings; 21 GW thermal; 12 GW at RE sites with 6 GW storage), clearly marked as results from your working paper with slide references.
+
+---
+
+If you want, I can now **drop these sections into Markdown/JSON blocks** tailored to your site’s CMS (same section IDs you used before), or produce a **1‑page factsheet** PDF that mirrors the tables above.
+
+[1]: https://www.pjm.com/about-pjm/who-we-are/territory-served?utm_source=chatgpt.com "PJM Territory Served"
+[2]: https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a "Electric Power Monthly - U.S. Energy Information Administration (EIA)"
+[3]: https://emp.lbl.gov/queues?utm_source=chatgpt.com "Queued Up: Characteristics of Power Plants Seeking ..."
+[4]: https://www.ferc.gov/sites/default/files/2020-06/Order-845.pdf?utm_source=chatgpt.com "Order-845.pdf"
+[5]: https://insidelines.pjm.com/ferc-accepts-two-pjm-proposals-to-expedite-supply-additions/ "FERC Accepts Two PJM Proposals To Expedite Supply Additions | PJM Inside Lines"
+[6]: https://cdn.misoenergy.org/20240502%20IPWG%20Item%2007%20Replacement%20and%20Surplus%20Submission%20by%20Online%20Portal632692.pdf?utm_source=chatgpt.com "Replacement and Surplus Application Submission"
+[7]: https://www.synapse-energy.com/sites/default/files/No-Regrets%20Solutions%20for%20Accelerating%20Grid%20Interconnection_Final%20Synapse%20Report%208.19.24%2023-132.pdf?utm_source=chatgpt.com "No-Regrets Solutions for Accelerating Grid Interconnection"
+[8]: https://www.pjm.com/-/media/DotCom/planning/res-adeq/elcc/2027-28-bra-elcc-class-ratings.pdf?utm_source=chatgpt.com "ELCC Class Ratings for the 2027/2028 Base Residual ..."
+[9]: https://cdn.misoenergy.org/2025%20PRA%20Results%20Posting%2020250529_Corrections694160.pdf "PowerPoint Presentation"
+[10]: https://about.bnef.com/insights/commodities/power-for-ai-easier-said-than-built/?utm_source=chatgpt.com "Power for AI: Easier Said Than Built"
+[11]: https://atb.nrel.gov/electricity/2024/utility-scale_battery_storage?utm_source=chatgpt.com "Utility-Scale Battery Storage | Electricity | 2024"
+[12]: https://cdn.misoenergy.org/Attachment%20X%20-%20GIP%20%28Effective%20August%206%202025%29330116.pdf?utm_source=chatgpt.com "Attachment X - GIP (Effective August 6 2025)"
+[13]: https://www.eia.gov/state/data.php?sid=IN&utm_source=chatgpt.com "State Energy Profile Data"
+[14]: https://atb.nrel.gov/electricity/2024/index?utm_source=chatgpt.com "2024 Electricity ATB Technologies and Data Overview"
+
+Awesome—I've drafted a **ready-to-paste website copy for “Surplus Interconnection in Pennsylvania”**, mirroring the structure you used before and grounding all claims in 2024–25 sources. I kept copy concise and added tables where helpful. When a figure comes from your working paper/PDF, I cite that; when it’s market/regulatory context, I cite external sources.
+
+---
+
+# Surplus Interconnection in Pennsylvania
+
+**Accelerating clean energy by reusing existing grid hookups**
+
+CTA: **Working Paper** · **Factsheet** · **Explore Dashboard**
+
+---
+
+## Why Pennsylvania needs Surplus Interconnection now
+
+Pennsylvania’s grid is at an inflection point: capacity prices are spiking, demand is rising, and new interconnections take years. Surplus Interconnection lets us add solar, wind, and storage at **already-connected** plants—faster and cheaper than waiting in the queue. ([Energy Markets & Policy][1])
+
+### At a glance (Pennsylvania)
+
+| Metric                                 |                                             Latest datapoint | Source                                                                       |
+| -------------------------------------- | -----------------------------------------------------------: | ---------------------------------------------------------------------------- |
+| Net summer capacity (utility-scale)    |                                       **29.4 GW** (Jun 2025) | EIA State Energy Profile Data. ([U.S. Energy Information Administration][2]) |
+| 2023 generation mix snapshot           |      Coal **45%**, wind **10%**, solar+hydro+biomass ~**3%** | EIA Pennsylvania profile. ([U.S. Energy Information Administration][3])           |
+| Typical U.S. interconnection wait time | **>4 years** (median **5** years for projects built in 2023) | LBNL *Queued Up* (through 2024). ([Energy Markets & Policy][1])              |
+
+### Tight capacity → higher prices
+
+| Market                  | Most recent auction (delivery year) |                                                        Clearing price |                    |
+| ----------------------- | ----------------------------------- | --------------------------------------------------------------------: | ------------------ |
+| **MISO (seasonal PRA)** | 2025/26                             | **Summer $666.50/MW-day**; annualized **$217/MW-day** (North/Central) | ([MISO Energy][4]) |
+| **PJM (BRA)**           | 2026/27                             |                          **$329.17/MW-day** across all zones (at cap) | ([PJM][5])         |
+
+Data-center load is a major driver—PJM’s market monitor attributes most of the recent price jump to data centers. ([Utility Dive][6])
+
+---
+
+## What is Surplus Interconnection?
+
+**Surplus Interconnection Service (SIS)** lets a new resource inject power using the existing interconnection of an operating generator, as long as the total output doesn’t exceed studied limits. FERC Order **845/845-A** established this pathway; MISO and PJM have SIS processes in place. ([Federal Energy Regulatory Commission][7])
+
+* **MISO**: SIS is codified in Attachment X/BPM-015; 2025 updates increased study deposits and clarified the request path. ([MISO Energy][8])
+* **PJM**: FERC approved 2025 reforms expanding SIS eligibility and removing several prior restrictions to speed near-term additions. ([Utility Dive][9])
+
+---
+
+## Pennsylvania results from our analysis
+
+We analyzed under-utilized thermal plants and existing renewable plants to find **fast, no-new-wire** additions.
+
+* **Total addable clean capacity at existing plants:** **≈39 GW** RE+storage potential (solar ≈27.8 GW, wind ≈5.6 GW, storage ≈5.8 GW). *Working paper, slide p. 22.* 
+* **At existing thermal plants:** **≈21 GW** RE potential by 2030 (solar-only ≈20 GW). *Slides p. 16–17.* 
+* **At existing RE plants:** **≈12 GW** additional RE enabled with **≈6 GW** of 6-hour storage; raises utilization and firm capacity. *Slide p. 18 & p. 21.* 
+* **Estimated interconnection cost savings:** **≈$3.3 B** by reusing existing infrastructure. *Slide p. 23.* 
+
+> These figures are drawn from your Pennsylvania working paper deck; I’ve kept the website text aligned with that analysis. 
+
+---
+
+## How surplus interconnection delivers reliability
+
+**Capacity value (ELCC):** Pairing renewables with storage turns variable output into dependable capacity.
+
+| Region                  | Technology                                                                                            | ELCC class rating (latest)                       |             |
+| ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------- |
+| **PJM (2026/27)**       | 6-hr storage                                                                                          | **58%** of ICAP                                  |             |
+|                         | 8-hr storage                                                                                          | **62%**                                          |             |
+|                         | Tracking solar                                                                                        | **11%**                                          |             |
+|                         | Onshore wind                                                                                          | **41%**                                          | ([PJM][10]) |
+| **MISO (2025/26 LOLE)** | Publishes seasonal ELCCs for wind/solar; storage modeling transitioning to DLOL/Even-Loss for 2026/27 | See latest LOLE & DLOL docs. ([MISO Energy][11]) |             |
+
+---
+
+## Where to build first (ranked list available)
+
+Our siting score combines: **economic crossover** vs local LCOE, **renewable potential** within a 6-mile buffer, **under-utilization** (low CF), **interconnection headroom**, and **site readiness**. *Method & top candidates are shown on slides p. 24–26.* 
+
+---
+
+## Implementation tracks
+
+### 1) **Renewables at thermal plants**
+
+Add solar/wind at peakers and low-CF steam units that have headroom on existing POIs; prioritize plants where running costs exceed local RE LCOE. *Slides p. 5–6, 15–17.* 
+
+### 2) **Storage + incremental RE at existing RE plants**
+
+Add 6-hr storage and incremental PV/wind to raise utilization and firm capacity at the same POI. *Slides p. 7, 18, 21.* 
+
+---
+
+## Process & timeline
+
+**MISO Surplus Interconnection flow (indicative):** Interconnection study (≈30 days), impact assessment (≈30), facility study if needed (≈30), then GIA tender—i.e., **months**, not years, when no new upgrades are triggered. *Slide p. 28.* 
+See also **BPM-015 / Attachment X** for request, deposits, and study scope. ([MISO Energy][12])
+
+**PJM 2025 reforms**: FERC approved PJM’s proposals to **expand SIS** and eliminate several blocking restrictions—explicitly aimed at **faster near-term capacity** additions. ([PJM Inside Lines][13])
+
+---
+
+## Policy & market context (2024–25)
+
+* **Capacity markets signal scarcity:** MISO’s 2025/26 Summer cleared **$666.50/MW-day**; PJM’s 2026/27 BRA cleared at the **cap ($329.17/MW-day)** across all zones. Surplus interconnection is a pragmatic, near-term supply response. ([MISO Energy][4])
+* **Growing demand from AI/data centers:** PJM’s market monitor flags data centers as a **primary reason** for higher capacity prices—underscoring the need for fast-track additions. ([Utility Dive][6])
+* **Queue delays persist:** Typical U.S. interconnection wait times now exceed **4 years**; median is **5** years for projects built in 2023—another reason to leverage existing POIs. ([Energy Markets & Policy][1])
+
+---
+
+## Example configuration: behind-the-meter data center at a peaker
+
+A data center sited “behind-the-meter” at a gas peaker can use **onsite solar + 4-6 hr storage** for ~95% of annual energy and rely on the gas unit for **backup**, all on existing interconnection—enabling **1–2 year** delivery at meaningful scale. *Diagram & explainer: slide p. 30.* 
+
+---
+
+## Downloads & links
+
+* **Working paper deck (Pennsylvania)** – slides with full charts and methodology. 
+* **Website content scaffold** – sectioning and narrative model used here. 
+* **FERC Order 845 / 845-A (SIS)**. ([Federal Energy Regulatory Commission][7])
+* **MISO BPM-015 & 2025 SIS updates**. ([MISO Energy][12])
+* **PJM 2025 SIS reforms (FERC-approved)**. ([Utility Dive][9])
+* **LBNL “Queued Up” (2025 data)** – national queue metrics & Pennsylvania filterable dataset. ([Energy Markets & Policy][1])
+* **MISO PRA 2025/26 results** & **PJM BRA 2026/27 results**. ([MISO Energy][4])
+
+---
+
+## Notes on numbers
+
+* Site-specific **GW potentials and savings** come from your 2025 Pennsylvania working paper (cited above). If you want me to **re-compute** any figures against new inputs (e.g., updated 2025 EIA-860M, revised LCOEs, or updated queue data), say the word and I’ll regenerate the tables.
+* For the **headline “Problem” section**, I avoided state-specific queue counts where public primary sources don’t publish a definitive Pennsylvania-only roll-up; instead I used LBNL’s latest queue dataset and national timing metrics for accuracy. ([Energy Markets & Policy][1])
+
+---
+
+### Want this as a single Markdown/HTML file or with your CTA links wired up to the deck/factsheet/dashboard? I can export the final page in your preferred format.
+
+[1]: https://emp.lbl.gov/queues "Queued Up: Characteristics of Power Plants Seeking Transmission Interconnection | Energy Markets & Policy"
+[2]: https://www.eia.gov/state/data.php?sid=IN&utm_source=chatgpt.com "State Energy Profile Data"
+[3]: https://www.eia.gov/state/?sid=IN&utm_source=chatgpt.com "Pennsylvania energy profile"
+[4]: https://www.misoenergy.org/meet-miso/media-center/2025---news-releases/misos-planning-resource-auction-indicates-sufficient-resources/?utm_source=chatgpt.com "MISO's Planning Resource Auction indicates sufficient ..."
+[5]: https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/2025-releases/20250722-pjm-auction-procures-134311-mw-of-generation-resources-supply-responds-to-price-signal.pdf?utm_source=chatgpt.com "NEWS RELEASE"
+[6]: https://www.utilitydive.com/news/data-centers-pjm-capacity-auction-market-monitor/801780/?utm_source=chatgpt.com "Data centers 'primary reason' for high PJM capacity prices"
+[7]: https://www.ferc.gov/sites/default/files/2020-06/Order-845.pdf?utm_source=chatgpt.com "Order-845.pdf"
+[8]: https://cdn.misoenergy.org/20250722%20IPWG%20Item%2007%20Surplus%20Interconnection%20Attachment%20X%20and%20BPM%20015%20Updates%20%28PAC-2025-3%29709120.pdf?utm_source=chatgpt.com "Surplus Interconnection Attachment X and BPM-015 ..."
+[9]: https://www.utilitydive.com/news/ferc-pjm-fast-track-surplus-interconnection-queue/739908/?utm_source=chatgpt.com "FERC approves PJM's fast-track power plant ..."
+[10]: https://www.pjm.com/-/media/DotCom/planning/res-adeq/elcc/2026-27-bra-elcc-class-ratings.pdf?utm_source=chatgpt.com "ELCC Class Ratings for the 2026/2027 Base Residual ..."
+[11]: https://cdn.misoenergy.org/PY%202025-2026%20LOLE%20Study%20Report685316.pdf?v=20250313114401&utm_source=chatgpt.com "PY 2025-2026 LOLE Study Report"
+[12]: https://cdn.misoenergy.org/20230918%20PAC%20Item%2002c%20BPM-015%20Generator%20Interconnection%20Queue%20Reform%20Redlines630228.pdf?utm_source=chatgpt.com "Business Practices Manual Generator Interconnection"
+[13]: https://insidelines.pjm.com/ferc-accepts-two-pjm-proposals-to-expedite-supply-additions/?utm_source=chatgpt.com "FERC Accepts Two PJM Proposals To Expedite Supply ..."
+
+
+Medical References:
+1. None — DOI: file_00000000df9c6230828abfec88907bc4
+2. None — DOI: file_000000000ed86230a38594dab52e4494

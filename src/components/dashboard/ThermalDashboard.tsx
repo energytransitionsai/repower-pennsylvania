@@ -1,0 +1,141 @@
+"use client";
+
+import plantsData from "@/data/pennsylvania_thermal_data.json";
+import { useState } from "react";
+import DashboardContent from "./DashboardContent";
+import DashboardFilters from "./DashboardFilters";
+import DashboardSidebar from "./DashboardSidebar";
+import StatCards from "./StatCards";
+import {
+  DashboardConfig,
+  Filters,
+  Plant,
+  PlantDataSet,
+} from "./dashboard.types";
+
+export default function ThermalDashboard() {
+  // Mock data for plants
+  const initialPlantData: PlantDataSet = {
+    // all: [
+    //   {
+    //     fac_id_eia: "1",
+    //     eia_unit_id: "1",
+    //     plant_name: "Plant A",
+    //     state: "CA",
+    //     county: "Los Angeles",
+    //     utility_name_eia_pudl: "Utility A",
+    //     rto_name: "CAISO",
+    //     total_plant_capacity: 500,
+    //     technology: "Solar",
+    //     capacity_mw: 500,
+    //     estimated_vc: 30,
+    //     capacity_factor: 0.25,
+    //     solar_crossover_year: "2025",
+    //     wind_crossover_year: "2027",
+    //     install_solar_capacity_mw_2030: 200,
+    //     install_wind_capacity_mw_2030: 100,
+    //     solar_lcoe_2024: 40,
+    //     wind_lcoe_2024: 50,
+    //     urban_area_perc: 10,
+    //   },
+    //   // Add more plant data here
+    // ],
+    all: plantsData as unknown as Plant[],
+    filtered: [],
+  };
+
+  // State for filters and plant data
+  const [filters, setFilters] = useState<Filters>({});
+  const [plantData, setPlantData] = useState<PlantDataSet>({
+    ...initialPlantData,
+    filtered: initialPlantData.all,
+  });
+
+  // Dashboard configuration
+  const dashboardConfig: DashboardConfig = {
+    mapOptions: {
+      style: "mapbox://styles/mapbox/satellite-streets-v12",
+      center: [-101.5, 38],
+      zoom: 3.7,
+    },
+    sourceConfig: {
+      sourceId: "thermal-plants",
+      sourceLayer: "thermal_ca_data-7ht45k",
+      sourceUrl: "mapbox://umedpl.4sxxx2ai",
+    },
+    layerConfig: {
+      layerId: "thermal-layer",
+      paint: {
+        "circle-color": "blue",
+        "circle-radius": 5,
+      },
+    },
+    tabs: [
+      { label: "Thermal", route: "/thermal/dashboard" },
+      { label: "Renewable", route: "/renewable/dashboard" },
+    ],
+  };
+
+  // Handle filter changes
+  const handleFilterChange = (filterName: string, value: string | boolean) => {
+    const updatedFilters = { ...filters, [filterName]: value };
+    setFilters(updatedFilters);
+
+    // Apply filters to plant data
+    const filteredPlants = initialPlantData.all.filter((plant) => {
+      return Object.entries(updatedFilters).every(([key, val]) => {
+        if (!val) return true;
+        return plant[key as keyof typeof plant] === val;
+      });
+    });
+
+    setPlantData({ ...plantData, filtered: filteredPlants });
+  };
+
+  // Handle reset filters
+  const handleReset = () => {
+    setFilters({});
+    setPlantData({ ...plantData, filtered: initialPlantData.all });
+  };
+
+  return (
+    <div style={{ display: "flex", height: "100%" }}>
+      {/* Sidebar */}
+      <DashboardSidebar
+        filters={filters}
+        setFilters={setFilters}
+        plantData={plantData}
+        onFilterChange={handleFilterChange}
+        onReset={handleReset}
+        tabs={dashboardConfig.tabs}
+      >
+        <DashboardFilters
+          filters={filters}
+          setFilters={setFilters}
+          plantData={plantData}
+          onFilterChange={handleFilterChange}
+          onReset={handleReset}
+        />
+      </DashboardSidebar>
+
+      {/* Main Content */}
+      <div style={{ flex: 1, display: "flex", flexDirection: "column" }}>
+        <div style={{ flex: 1 }}>
+          <DashboardContent
+            mapboxToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN || ""}
+            mapOptions={dashboardConfig.mapOptions}
+            sourceConfig={dashboardConfig.sourceConfig}
+            layerConfig={dashboardConfig.layerConfig}
+            data={plantData.filtered}
+            filters={filters}
+            onFilterChange={handleFilterChange}
+            onReset={handleReset}
+          />
+        </div>
+        <div style={{ padding: "16px" }}>
+          <StatCards plants={plantData.filtered} />
+        </div>
+      </div>
+    </div>
+  );
+}
