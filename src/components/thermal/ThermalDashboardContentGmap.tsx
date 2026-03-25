@@ -365,7 +365,7 @@ export default function ThermalDashboardContentGmap({}) {
                         } $/MWh</span>
                       </div>
                       <div class="info-row">
-                        <span class="info-label">Capacity Factor:</span>
+                        <span class="info-label">Capacity Factor (simulated):</span>
                         <span class="info-value">${(
                           unit.capacity_factor * 100
                         ).toFixed(1)}%</span>

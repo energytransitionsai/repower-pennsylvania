@@ -251,11 +251,11 @@ export default function ReDashboardContentGMap({}) {
                 <span class="info-value">${optimalBatteryMwh} MWh</span>
               </div>
               <div class="info-row">
-                <span class="info-label">Current CF</span>
+                <span class="info-label">Current CF (simulated)</span>
                 <span class="info-value">${currentCf} %</span>
               </div>
               <div class="info-row">
-                <span class="info-label">Potential IC Utilisation:</span>
+                <span class="info-label">Potential IC Utilisation (simulated):</span>
                 <span class="info-value">${optimalCf} %</span>
               </div>
               <div class="info-row">
