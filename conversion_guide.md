@@ -208,7 +208,7 @@ See Section B3 for full content.
 
 Add a line so the variable name matches what the code expects:
 ```
-NEXT_PUBLIC_GOOGLE_API_KEY=AIzaSyAO-0BoSBlRkkdBljsmIEMuOYPaoIESzTY
+NEXT_PUBLIC_GOOGLE_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
 ```
 
 ---
@@ -540,8 +540,8 @@ The `defaultMapId` value (`181f71e9733811c528a5235f`) is a Google Maps Cloud Sty
 
 ```env
 # Google Maps API Key
-NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=AIzaSyAO-0BoSBlRkkdBljsmIEMuOYPaoIESzTY
-NEXT_PUBLIC_GOOGLE_API_KEY=AIzaSyAO-0BoSBlRkkdBljsmIEMuOYPaoIESzTY
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
+NEXT_PUBLIC_GOOGLE_API_KEY=YOUR_GOOGLE_MAPS_API_KEY
 ```
 
 **Fix Option 2:** Change the code references from `NEXT_PUBLIC_GOOGLE_API_KEY` to `NEXT_PUBLIC_GOOGLE_MAPS_API_KEY` in:
