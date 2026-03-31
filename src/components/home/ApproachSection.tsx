@@ -73,9 +73,9 @@ export default function ApproachSection() {
     },
     {
       title: "Quick Wins Available",
-      subtitle: "5.7 GW Ready",
+      subtitle: "10.5 GW Ready",
       description:
-        "5.7 GW of thermal capacity operates at less than 15% capacity factor, and 41% of Pennsylvania's thermal capacity operates below 30% CF, creating immediate opportunities for surplus interconnection.",
+        "10.5 GW of thermal capacity operates at less than 20% capacity factor — including coal plants averaging just 19% utilization — and 39% of Pennsylvania's thermal capacity operates below 30% CF, creating immediate opportunities for surplus interconnection.",
     },
   ];
 
@@ -212,8 +212,8 @@ export default function ApproachSection() {
                       mb: 3,
                     }}
                   >
-                    Pennsylvania has 34.2 GW of thermal capacity across 67 plants, with 5.7 GW operating at
-                    less than 15% capacity factor (mostly gas peakers), leaving grid connections
+                    Pennsylvania has 34.2 GW of thermal capacity across 67 plants, with 10.5 GW operating at
+                    less than 20% capacity factor (including coal at just 19% utilization), leaving grid connections
                     idle most of the time. Building new solar is already cheaper than operating
                     32.7 GW (96%) of existing thermal plants with IRA tax credits. By co-locating
                     solar and wind at these sites, we can bypass lengthy PJM interconnection queues and deploy

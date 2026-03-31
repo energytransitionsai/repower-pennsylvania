@@ -1,5 +1,13 @@
 [
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.393644,
+        39.913408
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_50",
       "plant_name": "Mill Run Windpower LLC",
@@ -9,8 +17,6 @@
       "capacity_mw": 15.0,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.913408,
-      "longitude": -79.393644,
       "solar_cf": 0.2511562095018936,
       "wind_cf": 0.5155255298406477,
       "optimal_solar_mw": 22.4664725419551,
@@ -20,6 +26,8 @@
       "optimal_cf": 0.8510501308162086,
       "solar_lcoe_2025_wIRA": 21.19828615599683,
       "wind_lcoe_2025_wIRA": 31.69879903822585,
+      "solar_lcoe_2025_woIRA": 36.29828615599683,
+      "wind_lcoe_2025_woIRA": 46.79879903822585,
       "solar_lcoe_2030_woIRA": 28.44873509539946,
       "wind_lcoe_2030_woIRA": 43.42530267573843,
       "potential_mw_solar": 7054.992543876551,
@@ -28,12 +36,18 @@
       "current_cf": 0.5155255298406477,
       "generator_operating_date": 2001,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.29828615599683,
-      "wind_lcoe_2025_woIRA": 46.79879903822585
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.4542,
+        41.5533
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_57",
       "plant_name": "Waymart Wind",
@@ -43,8 +57,6 @@
       "capacity_mw": 64.5,
       "rto_name": "PJM",
       "county": "Wayne",
-      "latitude": 41.5533,
-      "longitude": -75.4542,
       "solar_cf": 0.254207621864253,
       "wind_cf": 0.3492700049255939,
       "optimal_solar_mw": 111.2306138007888,
@@ -54,6 +66,8 @@
       "optimal_cf": 0.750204867634057,
       "solar_lcoe_2025_wIRA": 21.36423044058303,
       "wind_lcoe_2025_wIRA": 39.22106028295703,
+      "solar_lcoe_2025_woIRA": 36.46423044058303,
+      "wind_lcoe_2025_woIRA": 55.3606589970243,
       "solar_lcoe_2030_woIRA": 28.55138568102894,
       "wind_lcoe_2030_woIRA": 51.31514298485391,
       "potential_mw_solar": 12369.18378706839,
@@ -62,12 +76,18 @@
       "current_cf": 0.3492700049255939,
       "generator_operating_date": 2003,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.46423044058303,
-      "wind_lcoe_2025_woIRA": 55.3606589970243
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.002047,
+        39.790739
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_61",
       "plant_name": "Meyersdale Windpower, LLC",
@@ -77,8 +97,6 @@
       "capacity_mw": 30.0,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.790739,
-      "longitude": -79.002047,
       "solar_cf": 0.256879008288876,
       "wind_cf": 0.5304370317481047,
       "optimal_solar_mw": 41.32878997699136,
@@ -88,6 +106,8 @@
       "optimal_cf": 0.8582045901804538,
       "solar_lcoe_2025_wIRA": 23.23217314435036,
       "wind_lcoe_2025_wIRA": 26.37995376831138,
+      "solar_lcoe_2025_woIRA": 38.33217314435036,
+      "wind_lcoe_2025_woIRA": 41.47995376831138,
       "solar_lcoe_2030_woIRA": 29.91330092181015,
       "wind_lcoe_2030_woIRA": 38.47386035216291,
       "potential_mw_solar": 2242.03895471433,
@@ -96,23 +116,27 @@
       "current_cf": 0.5304370317481047,
       "generator_operating_date": 2003,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 38.33217314435036,
-      "wind_lcoe_2025_woIRA": 41.47995376831138
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.753056,
+        41.235278
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_95",
       "plant_name": "Wind Park Bear Creek",
       "technology": "Wind",
-      "owner": "Avangrid, Inc.",
+      "owner": "Wind Park Jersey Member LLC",
       "operating_year": 2006,
       "capacity_mw": 24.0,
       "rto_name": "PJM",
       "county": "Luzerne",
-      "latitude": 41.235278,
-      "longitude": -75.753056,
       "solar_cf": 0.2566834143555112,
       "wind_cf": 0.4817131619217571,
       "optimal_solar_mw": 33.13059274400283,
@@ -122,6 +146,8 @@
       "optimal_cf": 0.8262505726880589,
       "solar_lcoe_2025_wIRA": 21.85824694055555,
       "wind_lcoe_2025_wIRA": 15.85173839768227,
+      "solar_lcoe_2025_woIRA": 36.95824694055555,
+      "wind_lcoe_2025_woIRA": 30.95173839768227,
       "solar_lcoe_2030_woIRA": 28.90030833043332,
       "wind_lcoe_2030_woIRA": 28.64408194579645,
       "potential_mw_solar": 9507.691460603595,
@@ -130,12 +156,18 @@
       "current_cf": 0.4817131619217571,
       "generator_operating_date": 2006,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.95824694055555,
-      "wind_lcoe_2025_woIRA": 30.95173839768227
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.138,
+        39.85
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_117",
       "plant_name": "Casselman Wind Power Project",
@@ -145,8 +177,6 @@
       "capacity_mw": 34.5,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.85,
-      "longitude": -79.138,
       "solar_cf": 0.2557237578870572,
       "wind_cf": 0.5819434861182867,
       "optimal_solar_mw": 45.19769149532545,
@@ -156,6 +186,8 @@
       "optimal_cf": 0.8799987697778805,
       "solar_lcoe_2025_wIRA": 23.57897996931361,
       "wind_lcoe_2025_wIRA": 30.58992873662702,
+      "solar_lcoe_2025_woIRA": 38.67897996931362,
+      "wind_lcoe_2025_woIRA": 45.68992873662702,
       "solar_lcoe_2030_woIRA": 30.17661534768068,
       "wind_lcoe_2030_woIRA": 42.41328796080639,
       "potential_mw_solar": 1767.634481007706,
@@ -164,23 +196,27 @@
       "current_cf": 0.5819434861182867,
       "generator_operating_date": 2007,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 38.67897996931362,
-      "wind_lcoe_2025_woIRA": 45.68992873662702
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.579444,
+        40.383889
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_148",
       "plant_name": "Allegheny Ridge Wind Farm",
       "technology": "Wind",
-      "owner": "NextEra Energy",
+      "owner": "NextEra Energy LLC",
       "operating_year": 2007,
       "capacity_mw": 80.0,
       "rto_name": "PJM",
       "county": "Cambria",
-      "latitude": 40.383889,
-      "longitude": -78.579444,
       "solar_cf": 0.2542656093113296,
       "wind_cf": 0.5214824605082238,
       "optimal_solar_mw": 116.4834549708468,
@@ -190,6 +226,8 @@
       "optimal_cf": 0.8501324888386687,
       "solar_lcoe_2025_wIRA": 23.64556362632108,
       "wind_lcoe_2025_wIRA": 21.95488359785932,
+      "solar_lcoe_2025_woIRA": 38.74556362632109,
+      "wind_lcoe_2025_woIRA": 37.05488359785932,
       "solar_lcoe_2030_woIRA": 30.23508031968343,
       "wind_lcoe_2030_woIRA": 34.34695586931503,
       "potential_mw_solar": 8367.384953220913,
@@ -198,23 +236,27 @@
       "current_cf": 0.5214824605082238,
       "generator_operating_date": 2007,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 38.74556362632109,
-      "wind_lcoe_2025_woIRA": 37.05488359785932
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.1292,
+        40.855
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_154",
       "plant_name": "Locust Ridge",
       "technology": "Wind",
-      "owner": "Avangrid, Inc.",
+      "owner": "AVANGRID, Inc.",
       "operating_year": 2007,
       "capacity_mw": 26.0,
       "rto_name": "PJM",
       "county": "Schuylkill",
-      "latitude": 40.855,
-      "longitude": -76.1292,
       "solar_cf": 0.2596771490766839,
       "wind_cf": 0.5196567161102739,
       "optimal_solar_mw": 33.88218958210808,
@@ -224,6 +266,8 @@
       "optimal_cf": 0.8516926633752315,
       "solar_lcoe_2025_wIRA": 20.59619173796995,
       "wind_lcoe_2025_wIRA": 22.10882852300448,
+      "solar_lcoe_2025_woIRA": 35.69619173796995,
+      "wind_lcoe_2025_woIRA": 37.20882852300448,
       "solar_lcoe_2030_woIRA": 27.95001362541968,
       "wind_lcoe_2030_woIRA": 34.48976927929122,
       "potential_mw_solar": 5782.937422652393,
@@ -232,12 +276,18 @@
       "current_cf": 0.5196567161102739,
       "generator_operating_date": 2007,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.69619173796995,
-      "wind_lcoe_2025_woIRA": 37.20882852300448
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.5436,
+        40.4381
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_207",
       "plant_name": "North Allegheny Windpower Project",
@@ -247,8 +297,6 @@
       "capacity_mw": 75.0,
       "rto_name": "PJM",
       "county": "Blair",
-      "latitude": 40.4381,
-      "longitude": -78.5436,
       "solar_cf": 0.2542656093113296,
       "wind_cf": 0.5214824605082238,
       "optimal_solar_mw": 109.2032390351705,
@@ -258,6 +306,8 @@
       "optimal_cf": 0.850132488838667,
       "solar_lcoe_2025_wIRA": 20.75439645985583,
       "wind_lcoe_2025_wIRA": 31.16421307933311,
+      "solar_lcoe_2025_woIRA": 35.85439645985583,
+      "wind_lcoe_2025_woIRA": 46.26421307933311,
       "solar_lcoe_2030_woIRA": 28.10083711688826,
       "wind_lcoe_2030_woIRA": 42.92925240205181,
       "potential_mw_solar": 7410.756298875741,
@@ -266,12 +316,18 @@
       "current_cf": 0.5214824605082238,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.85439645985583,
-      "wind_lcoe_2025_woIRA": 46.26421307933311
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.8633,
+        40.0853
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_218",
       "plant_name": "Forward Windpower LLC",
@@ -281,8 +337,6 @@
       "capacity_mw": 29.4,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 40.0853,
-      "longitude": -78.8633,
       "solar_cf": 0.2579320293086984,
       "wind_cf": 0.5932009216929104,
       "optimal_solar_mw": 37.03722750928266,
@@ -292,6 +346,8 @@
       "optimal_cf": 0.8885081133451868,
       "solar_lcoe_2025_wIRA": 20.64642560418022,
       "wind_lcoe_2025_wIRA": 11.66833765263594,
+      "solar_lcoe_2025_woIRA": 35.74642560418022,
+      "wind_lcoe_2025_woIRA": 26.76833765263594,
       "solar_lcoe_2030_woIRA": 27.99791645907117,
       "wind_lcoe_2030_woIRA": 24.78315154131287,
       "potential_mw_solar": 21035.61,
@@ -300,12 +356,18 @@
       "current_cf": 0.5932009216929104,
       "generator_operating_date": 2008,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.74642560418022,
-      "wind_lcoe_2025_woIRA": 26.76833765263594
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.9183,
+        39.8794
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_219",
       "plant_name": "Lookout Windpower LLC",
@@ -315,8 +377,6 @@
       "capacity_mw": 37.8,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.8794,
-      "longitude": -78.9183,
       "solar_cf": 0.256879008288876,
       "wind_cf": 0.5304370317481047,
       "optimal_solar_mw": 52.07427537100828,
@@ -326,6 +386,8 @@
       "optimal_cf": 0.858204590180355,
       "solar_lcoe_2025_wIRA": 21.83010603119311,
       "wind_lcoe_2025_wIRA": 13.00863284070826,
+      "solar_lcoe_2025_woIRA": 36.93010603119311,
+      "wind_lcoe_2025_woIRA": 28.10863284070826,
       "solar_lcoe_2030_woIRA": 28.87830293178491,
       "wind_lcoe_2030_woIRA": 26.01294867928463,
       "potential_mw_solar": 12415.63921529669,
@@ -334,23 +396,27 @@
       "current_cf": 0.5304370317481047,
       "generator_operating_date": 2008,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.93010603119311,
-      "wind_lcoe_2025_woIRA": 28.10863284070826
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.1547,
+        40.8411
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_231",
       "plant_name": "Locust Ridge II LLC",
       "technology": "Wind",
-      "owner": "Iberdrola, S.A.",
+      "owner": "IBERDROLA, S.A.",
       "operating_year": 2009,
       "capacity_mw": 102.0,
       "rto_name": "PJM",
       "county": "Schuylkill",
-      "latitude": 40.8411,
-      "longitude": -76.1547,
       "solar_cf": 0.2596771490766839,
       "wind_cf": 0.5196567161102739,
       "optimal_solar_mw": 132.9224360528873,
@@ -360,6 +426,8 @@
       "optimal_cf": 0.8516926633752301,
       "solar_lcoe_2025_wIRA": 20.40619732772816,
       "wind_lcoe_2025_wIRA": 15.45671576148949,
+      "solar_lcoe_2025_woIRA": 35.50619732772816,
+      "wind_lcoe_2025_woIRA": 30.55671576148949,
       "solar_lcoe_2030_woIRA": 27.80976082947936,
       "wind_lcoe_2030_woIRA": 28.29057699245083,
       "potential_mw_solar": 20278.45335300394,
@@ -368,23 +436,27 @@
       "current_cf": 0.5196567161102739,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.50619732772816,
-      "wind_lcoe_2025_woIRA": 30.55671576148949
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.7271,
+        39.7513
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_248",
       "plant_name": "South Chestnut LLC",
       "technology": "Wind",
-      "owner": "Avangrid, Inc.",
+      "owner": "Unknown",
       "operating_year": 2012,
       "capacity_mw": 50.4,
       "rto_name": "PJM",
       "county": "Fayette",
-      "latitude": 39.7513,
-      "longitude": -79.7271,
       "solar_cf": 0.2495279192423024,
       "wind_cf": 0.5165078754596174,
       "optimal_solar_mw": 74.42190096673981,
@@ -394,6 +466,8 @@
       "optimal_cf": 0.8602278452517437,
       "solar_lcoe_2025_wIRA": 21.07925007166487,
       "wind_lcoe_2025_wIRA": 15.64300184406803,
+      "solar_lcoe_2025_woIRA": 36.17925007166487,
+      "wind_lcoe_2025_woIRA": 30.74300184406803,
       "solar_lcoe_2030_woIRA": 28.37165352086244,
       "wind_lcoe_2030_woIRA": 28.46304777769313,
       "potential_mw_solar": 7405.522235595326,
@@ -402,12 +476,18 @@
       "current_cf": 0.5165078754596174,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.17925007166487,
-      "wind_lcoe_2025_woIRA": 30.74300184406803
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.8153,
+        40.0311
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_309",
       "plant_name": "Stony Creek Wind Farm LLC",
@@ -417,8 +497,6 @@
       "capacity_mw": 52.5,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 40.0311,
-      "longitude": -78.8153,
       "solar_cf": 0.2579320293086984,
       "wind_cf": 0.5932009216929104,
       "optimal_solar_mw": 66.13790626657541,
@@ -428,6 +506,8 @@
       "optimal_cf": 0.8885081133452861,
       "solar_lcoe_2025_wIRA": 20.83770548099244,
       "wind_lcoe_2025_wIRA": 17.49573094625873,
+      "solar_lcoe_2025_woIRA": 35.93770548099244,
+      "wind_lcoe_2025_woIRA": 32.59573094625873,
       "solar_lcoe_2030_woIRA": 28.13911817914227,
       "wind_lcoe_2030_woIRA": 30.21377679577481,
       "potential_mw_solar": 22999.1110693763,
@@ -436,12 +516,18 @@
       "current_cf": 0.5932009216929104,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.93770548099244,
-      "wind_lcoe_2025_woIRA": 32.59573094625873
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.8553,
+        41.7619
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_325",
       "plant_name": "Armenia Mountain Wind Farm",
@@ -451,8 +537,6 @@
       "capacity_mw": 100.5,
       "rto_name": "PJM",
       "county": "Tioga",
-      "latitude": 41.7619,
-      "longitude": -76.8553,
       "solar_cf": 0.2526472959613258,
       "wind_cf": 0.4888278899343789,
       "optimal_solar_mw": 143.2117199773525,
@@ -462,6 +546,8 @@
       "optimal_cf": 0.8378467577697869,
       "solar_lcoe_2025_wIRA": 21.23792436310218,
       "wind_lcoe_2025_wIRA": 15.40124609813919,
+      "solar_lcoe_2025_woIRA": 36.33792436310218,
+      "wind_lcoe_2025_woIRA": 30.50124609813919,
       "solar_lcoe_2030_woIRA": 28.46823681360424,
       "wind_lcoe_2030_woIRA": 28.227176821494,
       "potential_mw_solar": 15494.04859162172,
@@ -470,23 +556,27 @@
       "current_cf": 0.4888278899343789,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.33792436310218,
-      "wind_lcoe_2025_woIRA": 30.50124609813919
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.6908,
+        40.3042
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_364",
       "plant_name": "Cambria Wind LLC",
       "technology": "Wind",
-      "owner": "Exus Management Partners",
+      "owner": "Exus North America",
       "operating_year": 2009,
       "capacity_mw": 62.5,
       "rto_name": "PJM",
       "county": "Cambria",
-      "latitude": 40.3042,
-      "longitude": -78.6908,
       "solar_cf": 0.2557061259053538,
       "wind_cf": 0.5476674423039395,
       "optimal_solar_mw": 87.08500527423918,
@@ -496,6 +586,8 @@
       "optimal_cf": 0.864211387887547,
       "solar_lcoe_2025_wIRA": 21.05406814084897,
       "wind_lcoe_2025_wIRA": 12.12429456058125,
+      "solar_lcoe_2025_woIRA": 36.15406814084897,
+      "wind_lcoe_2025_woIRA": 27.22429456058125,
       "solar_lcoe_2030_woIRA": 28.31285174013878,
       "wind_lcoe_2030_woIRA": 25.19454365665561,
       "potential_mw_solar": 4520.700785455193,
@@ -504,23 +596,27 @@
       "current_cf": 0.5476674423039395,
       "generator_operating_date": 2009,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.15406814084897,
-      "wind_lcoe_2025_woIRA": 27.22429456058125
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.852206,
+        40.860142
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_395",
       "plant_name": "PA Solar Park",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2012,
       "capacity_mw": 10.1,
       "rto_name": "PJM",
       "county": "Carbon",
-      "latitude": 40.860142,
-      "longitude": -75.852206,
       "solar_cf": 0.2578757496176947,
       "wind_cf": 0.4535360935828006,
       "optimal_solar_mw": 4.610243550462284,
@@ -530,6 +626,8 @@
       "optimal_cf": 0.8121469269836772,
       "solar_lcoe_2025_wIRA": 19.90807269979138,
       "wind_lcoe_2025_wIRA": 19.91155209564747,
+      "solar_lcoe_2025_woIRA": 35.00807269979138,
+      "wind_lcoe_2025_woIRA": 35.01155209564747,
       "solar_lcoe_2030_woIRA": 27.45321992866665,
       "wind_lcoe_2030_woIRA": 32.41503497687528,
       "potential_mw_solar": 15709.06978814132,
@@ -538,12 +636,18 @@
       "current_cf": 0.2578757496176947,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.00807269979138,
-      "wind_lcoe_2025_woIRA": 35.01155209564747
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.476921,
+        40.522846
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_401",
       "plant_name": "Chestnut Flats Wind Farm",
@@ -553,8 +657,6 @@
       "capacity_mw": 38.0,
       "rto_name": "PJM",
       "county": "Blair",
-      "latitude": 40.522846,
-      "longitude": -78.476921,
       "solar_cf": 0.2544258651506043,
       "wind_cf": 0.557160252131781,
       "optimal_solar_mw": 52.04847938568053,
@@ -564,6 +666,8 @@
       "optimal_cf": 0.8681339940905152,
       "solar_lcoe_2025_wIRA": 20.18884839606504,
       "wind_lcoe_2025_wIRA": 11.66045125881677,
+      "solar_lcoe_2025_woIRA": 35.28884839606504,
+      "wind_lcoe_2025_woIRA": 26.76045125881677,
       "solar_lcoe_2030_woIRA": 27.68232395772911,
       "wind_lcoe_2030_woIRA": 24.76528293549542,
       "potential_mw_solar": 14142.07189837856,
@@ -572,23 +676,27 @@
       "current_cf": 0.557160252131781,
       "generator_operating_date": 2011,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.28884839606504,
-      "wind_lcoe_2025_woIRA": 26.76045125881677
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.28735,
+        40.729207
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_407",
       "plant_name": "Sandy Ridge Wind Farm",
       "technology": "Wind",
-      "owner": "LS Power Development, LLC",
+      "owner": "Algonquin Power & Utilities Corp.",
       "operating_year": 2012,
       "capacity_mw": 50.0,
       "rto_name": "PJM",
       "county": "Blair",
-      "latitude": 40.729207,
-      "longitude": -78.28735,
       "solar_cf": 0.252294306277739,
       "wind_cf": 0.5385323640350612,
       "optimal_solar_mw": 65.88442042865186,
@@ -598,6 +706,8 @@
       "optimal_cf": 0.863404049777452,
       "solar_lcoe_2025_wIRA": 20.68254746736632,
       "wind_lcoe_2025_wIRA": 14.3856978487868,
+      "solar_lcoe_2025_woIRA": 35.78254746736632,
+      "wind_lcoe_2025_woIRA": 29.4856978487868,
       "solar_lcoe_2030_woIRA": 28.06056059279766,
       "wind_lcoe_2030_woIRA": 27.29898761628508,
       "potential_mw_solar": 21122.82,
@@ -606,23 +716,27 @@
       "current_cf": 0.5385323640350612,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.78254746736632,
-      "wind_lcoe_2025_woIRA": 29.4856978487868
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.0296,
+        41.5323
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_543",
       "plant_name": "Laurel Hill Wind",
       "technology": "Wind",
-      "owner": "Duke Energy",
+      "owner": "Duke Energy Corporation",
       "operating_year": 2012,
       "capacity_mw": 69.0,
       "rto_name": "PJM",
       "county": "Lycoming",
-      "latitude": 41.5323,
-      "longitude": -77.0296,
       "solar_cf": 0.2534223524204626,
       "wind_cf": 0.4351275447355003,
       "optimal_solar_mw": 105.8966436400514,
@@ -632,6 +746,8 @@
       "optimal_cf": 0.8058575278354683,
       "solar_lcoe_2025_wIRA": 20.32858669562409,
       "wind_lcoe_2025_wIRA": 19.16549284437004,
+      "solar_lcoe_2025_woIRA": 35.42858669562409,
+      "wind_lcoe_2025_woIRA": 34.26549284437004,
       "solar_lcoe_2030_woIRA": 27.79194161468068,
       "wind_lcoe_2030_woIRA": 31.7107741199032,
       "potential_mw_solar": 22156.74,
@@ -640,12 +756,18 @@
       "current_cf": 0.4351275447355003,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.42858669562409,
-      "wind_lcoe_2025_woIRA": 34.26549284437004
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.049167,
+        41.420556
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_556",
       "plant_name": "Mehoopany Wind Energy LLC",
@@ -655,8 +777,6 @@
       "capacity_mw": 140.8,
       "rto_name": "PJM",
       "county": "Wyoming",
-      "latitude": 41.420556,
-      "longitude": -76.049167,
       "solar_cf": 0.2542540708888801,
       "wind_cf": 0.5198572375988137,
       "optimal_solar_mw": 188.5920013893819,
@@ -666,6 +786,8 @@
       "optimal_cf": 0.8529176607005968,
       "solar_lcoe_2025_wIRA": 23.62791726973625,
       "wind_lcoe_2025_wIRA": 27.22412663049535,
+      "solar_lcoe_2025_woIRA": 38.72791726973625,
+      "wind_lcoe_2025_woIRA": 42.32412663049535,
       "solar_lcoe_2030_woIRA": 30.22212800203145,
       "wind_lcoe_2030_woIRA": 39.25685516922955,
       "potential_mw_solar": 16381.33625598478,
@@ -674,12 +796,18 @@
       "current_cf": 0.5198572375988137,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 38.72791726973625,
-      "wind_lcoe_2025_woIRA": 42.32412663049535
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.680633,
+        40.319561
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_611",
       "plant_name": "Highland North Wind Farm",
@@ -689,8 +817,6 @@
       "capacity_mw": 75.0,
       "rto_name": "PJM",
       "county": "Cambria",
-      "latitude": 40.319561,
-      "longitude": -78.680633,
       "solar_cf": 0.2557061259053538,
       "wind_cf": 0.5476674423039395,
       "optimal_solar_mw": 104.5020063290879,
@@ -700,6 +826,8 @@
       "optimal_cf": 0.864211387887549,
       "solar_lcoe_2025_wIRA": 20.47523327777234,
       "wind_lcoe_2025_wIRA": 12.12429456058125,
+      "solar_lcoe_2025_woIRA": 35.57523327777234,
+      "wind_lcoe_2025_woIRA": 27.22429456058125,
       "solar_lcoe_2030_woIRA": 27.88555912752499,
       "wind_lcoe_2030_woIRA": 25.19454365665561,
       "potential_mw_solar": 11953.56882131623,
@@ -708,12 +836,18 @@
       "current_cf": 0.5476674423039395,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.57523327777234,
-      "wind_lcoe_2025_woIRA": 27.22429456058125
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.874722,
+        39.760556
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_617",
       "plant_name": "Twin Ridges Wind Farm",
@@ -723,8 +857,6 @@
       "capacity_mw": 139.4,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.760556,
-      "longitude": -78.874722,
       "solar_cf": 0.2581509298074157,
       "wind_cf": 0.5226626727394033,
       "optimal_solar_mw": 200.444236345395,
@@ -734,6 +866,8 @@
       "optimal_cf": 0.8505427643831236,
       "solar_lcoe_2025_wIRA": 21.16423973247847,
       "wind_lcoe_2025_wIRA": 18.65157806536592,
+      "solar_lcoe_2025_woIRA": 36.26423973247847,
+      "wind_lcoe_2025_woIRA": 33.75157806536592,
       "solar_lcoe_2030_woIRA": 28.37879861161074,
       "wind_lcoe_2030_woIRA": 31.2689792485876,
       "potential_mw_solar": null,
@@ -742,12 +876,18 @@
       "current_cf": 0.5226626727394033,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.26423973247847,
-      "wind_lcoe_2025_woIRA": 33.75157806536592
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.696078,
+        40.63067
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_618",
       "plant_name": "Patton Wind Farm",
@@ -757,8 +897,6 @@
       "capacity_mw": 30.0,
       "rto_name": "PJM",
       "county": "Cambria",
-      "latitude": 40.63067,
-      "longitude": -78.696078,
       "solar_cf": 0.2530058776045374,
       "wind_cf": 0.5052602114815593,
       "optimal_solar_mw": 45.0793150487892,
@@ -768,6 +906,8 @@
       "optimal_cf": 0.8445292587023125,
       "solar_lcoe_2025_wIRA": 20.85491601130789,
       "wind_lcoe_2025_wIRA": 14.40926954410848,
+      "solar_lcoe_2025_woIRA": 35.95491601130789,
+      "wind_lcoe_2025_woIRA": 29.50926954410848,
       "solar_lcoe_2030_woIRA": 28.18317250459091,
       "wind_lcoe_2030_woIRA": 27.30915866894681,
       "potential_mw_solar": 16324.425,
@@ -776,12 +916,18 @@
       "current_cf": 0.5052602114815593,
       "generator_operating_date": 2012,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.95491601130789,
-      "wind_lcoe_2025_woIRA": 29.50926954410848
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.188056,
+        39.744722
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1122",
       "plant_name": "Ringer Hill Wind Farm, LLC",
@@ -791,8 +937,6 @@
       "capacity_mw": 39.9,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.744722,
-      "longitude": -79.188056,
       "solar_cf": 0.2557237578870572,
       "wind_cf": 0.5819434861182867,
       "optimal_solar_mw": 52.27211277285465,
@@ -802,6 +946,8 @@
       "optimal_cf": 0.8799987697778753,
       "solar_lcoe_2025_wIRA": 21.1480411675503,
       "wind_lcoe_2025_wIRA": 18.12628073311671,
+      "solar_lcoe_2025_woIRA": 36.2480411675503,
+      "wind_lcoe_2025_woIRA": 33.22628073311671,
       "solar_lcoe_2030_woIRA": 28.38211011316753,
       "wind_lcoe_2030_woIRA": 30.79824874856397,
       "potential_mw_solar": 20619.43415432582,
@@ -810,12 +956,18 @@
       "current_cf": 0.5819434861182867,
       "generator_operating_date": 2016,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.2480411675503,
-      "wind_lcoe_2025_woIRA": 33.22628073311671
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.665939,
+        41.869326
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1179",
       "plant_name": "Big Level Wind",
@@ -825,8 +977,6 @@
       "capacity_mw": 90.0,
       "rto_name": "PJM",
       "county": "Potter",
-      "latitude": 41.869326,
-      "longitude": -77.665939,
       "solar_cf": 0.248115318479076,
       "wind_cf": 0.4367301781420119,
       "optimal_solar_mw": 145.0911194127612,
@@ -836,6 +986,8 @@
       "optimal_cf": 0.8057238727739394,
       "solar_lcoe_2025_wIRA": 21.04661278052155,
       "wind_lcoe_2025_wIRA": 26.81362749571196,
+      "solar_lcoe_2025_woIRA": 36.14661278052155,
+      "wind_lcoe_2025_woIRA": 41.91362749571196,
       "solar_lcoe_2030_woIRA": 28.35703646277652,
       "wind_lcoe_2030_woIRA": 38.83898597535673,
       "potential_mw_solar": 3505.036658910825,
@@ -844,12 +996,18 @@
       "current_cf": 0.4367301781420119,
       "generator_operating_date": 2019,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.14661278052155,
-      "wind_lcoe_2025_woIRA": 41.91362749571196
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.609986,
+        40.139673
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1662",
       "plant_name": "Whitetail Solar 1",
@@ -859,8 +1017,6 @@
       "capacity_mw": 13.5,
       "rto_name": "PJM",
       "county": "Franklin",
-      "latitude": 40.139673,
-      "longitude": -77.609986,
       "solar_cf": 0.2612360496244025,
       "wind_cf": 0.4424246674781054,
       "optimal_solar_mw": 7.187101108932403,
@@ -870,6 +1026,8 @@
       "optimal_cf": 0.811154593496097,
       "solar_lcoe_2025_wIRA": 20.30763395401552,
       "wind_lcoe_2025_wIRA": 20.79086173301241,
+      "solar_lcoe_2025_woIRA": 35.40763395401552,
+      "wind_lcoe_2025_woIRA": 35.89086173301241,
       "solar_lcoe_2030_woIRA": 27.72745831533546,
       "wind_lcoe_2030_woIRA": 33.22913349421098,
       "potential_mw_solar": 17520.36848654086,
@@ -878,23 +1036,27 @@
       "current_cf": 0.2612360496244025,
       "generator_operating_date": 2019,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.40763395401552,
-      "wind_lcoe_2025_woIRA": 35.89086173301241
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.814218,
+        39.904211
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1663",
       "plant_name": "Whitetail Solar 2",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": "bp",
       "operating_year": 2020,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Franklin",
-      "latitude": 39.904211,
-      "longitude": -77.814218,
       "solar_cf": 0.2605621367932702,
       "wind_cf": 0.4768524459937465,
       "optimal_solar_mw": 8.265347735326745,
@@ -904,6 +1066,8 @@
       "optimal_cf": 0.821240700180862,
       "solar_lcoe_2025_wIRA": 19.88796899101375,
       "wind_lcoe_2025_wIRA": 34.75463924985361,
+      "solar_lcoe_2025_woIRA": 34.98796899101375,
+      "wind_lcoe_2025_woIRA": 50.59421603638743,
       "solar_lcoe_2030_woIRA": 27.42177570240344,
       "wind_lcoe_2030_woIRA": 46.94712663945135,
       "potential_mw_solar": 11176.45066396878,
@@ -912,23 +1076,27 @@
       "current_cf": 0.2605621367932702,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.98796899101375,
-      "wind_lcoe_2025_woIRA": 50.59421603638743
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.769144,
+        39.87817
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1664",
       "plant_name": "Whitetail Solar 3",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": "Lightsource bp",
       "operating_year": 2020,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Franklin",
-      "latitude": 39.87817,
-      "longitude": -77.769144,
       "solar_cf": 0.2609363824280871,
       "wind_cf": 0.4505262988620659,
       "optimal_solar_mw": 9.498952341460708,
@@ -938,6 +1106,8 @@
       "optimal_cf": 0.8061961119792268,
       "solar_lcoe_2025_wIRA": 20.17812736929449,
       "wind_lcoe_2025_wIRA": 17.99431615464344,
+      "solar_lcoe_2025_woIRA": 35.27812736929449,
+      "wind_lcoe_2025_woIRA": 33.09431615464344,
       "solar_lcoe_2030_woIRA": 27.63368299869379,
       "wind_lcoe_2030_woIRA": 30.626916384919,
       "potential_mw_solar": 16946.32062451445,
@@ -946,12 +1116,18 @@
       "current_cf": 0.2609363824280871,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.27812736929449,
-      "wind_lcoe_2025_woIRA": 33.09431615464344
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.84656,
+        40.86159
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1756",
       "plant_name": "PA Solar Park II",
@@ -961,8 +1137,6 @@
       "capacity_mw": 10.0,
       "rto_name": "PJM",
       "county": "Carbon",
-      "latitude": 40.86159,
-      "longitude": -75.84656,
       "solar_cf": 0.2585915467071914,
       "wind_cf": 0.4509743931317743,
       "optimal_solar_mw": 4.479922620653481,
@@ -972,6 +1146,8 @@
       "optimal_cf": 0.8048353018686641,
       "solar_lcoe_2025_wIRA": 20.07827707623749,
       "wind_lcoe_2025_wIRA": 17.9614331935382,
+      "solar_lcoe_2025_woIRA": 35.17827707623749,
+      "wind_lcoe_2025_woIRA": 33.0614331935382,
       "solar_lcoe_2030_woIRA": 27.57440598504218,
       "wind_lcoe_2030_woIRA": 30.59648506566911,
       "potential_mw_solar": 19981.08,
@@ -980,23 +1156,27 @@
       "current_cf": 0.2585915467071914,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.17827707623749,
-      "wind_lcoe_2025_woIRA": 33.0614331935382
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.811561,
+        39.799589
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1797",
       "plant_name": "Elk Hill Solar 2",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": "Lightsource bp",
       "operating_year": 2020,
       "capacity_mw": 15.0,
       "rto_name": "PJM",
       "county": "Franklin",
-      "latitude": 39.799589,
-      "longitude": -77.811561,
       "solar_cf": 0.2638716971341434,
       "wind_cf": 0.2659143795072263,
       "optimal_solar_mw": 20.47423770372294,
@@ -1006,6 +1186,8 @@
       "optimal_cf": 0.5133479755025445,
       "solar_lcoe_2025_wIRA": 19.71090299424763,
       "wind_lcoe_2025_wIRA": 49.8163537815082,
+      "solar_lcoe_2025_woIRA": 34.81090299424763,
+      "wind_lcoe_2025_woIRA": 69.88236521791586,
       "solar_lcoe_2030_woIRA": 27.27107596047153,
       "wind_lcoe_2030_woIRA": 64.76153702868059,
       "potential_mw_solar": 4804.426707396479,
@@ -1014,23 +1196,27 @@
       "current_cf": 0.2638716971341434,
       "generator_operating_date": 2020,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.81090299424763,
-      "wind_lcoe_2025_woIRA": 69.88236521791586
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.929148,
+        39.849241
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1800",
       "plant_name": "Elk Hill Solar 1",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": "Lightsource bp",
       "operating_year": 2022,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Franklin",
-      "latitude": 39.849241,
-      "longitude": -77.929148,
       "solar_cf": 0.2629360897676273,
       "wind_cf": 0.5093660603705499,
       "optimal_solar_mw": 6.523253331084479,
@@ -1040,6 +1226,8 @@
       "optimal_cf": 0.8394135650321464,
       "solar_lcoe_2025_wIRA": 19.57207552379769,
       "wind_lcoe_2025_wIRA": 32.26470987591201,
+      "solar_lcoe_2025_woIRA": 34.67207552379769,
+      "wind_lcoe_2025_woIRA": 47.36470987591201,
       "solar_lcoe_2030_woIRA": 27.17419460370982,
       "wind_lcoe_2030_woIRA": 43.95041977102819,
       "potential_mw_solar": 15530.4,
@@ -1048,23 +1236,27 @@
       "current_cf": 0.2629360897676273,
       "generator_operating_date": 2022,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.67207552379769,
-      "wind_lcoe_2025_woIRA": 47.36470987591201
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.651901,
+        41.050201
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1993",
       "plant_name": "CL-Viaduct LLC",
       "technology": "Solar",
-      "owner": "BlackRock",
+      "owner": "BCD Project Holdings",
       "operating_year": 2023,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Clearfield",
-      "latitude": 41.050201,
-      "longitude": -78.651901,
       "solar_cf": 0.2483163606413133,
       "wind_cf": 0.4565119530677549,
       "optimal_solar_mw": 11.44803697149737,
@@ -1074,6 +1266,8 @@
       "optimal_cf": 0.8253264429240007,
       "solar_lcoe_2025_wIRA": 22.03065088746565,
       "wind_lcoe_2025_wIRA": 19.68332267320486,
+      "solar_lcoe_2025_woIRA": 37.13065088746565,
+      "wind_lcoe_2025_woIRA": 34.78332267320486,
       "solar_lcoe_2030_woIRA": 29.08209265814343,
       "wind_lcoe_2030_woIRA": 32.20373144222995,
       "potential_mw_solar": 13519.46392494333,
@@ -1082,23 +1276,27 @@
       "current_cf": 0.2483163606413133,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 37.13065088746565,
-      "wind_lcoe_2025_woIRA": 34.78332267320486
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.179153,
+        40.963184
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_1995",
       "plant_name": "UN-School House LLC",
       "technology": "Solar",
-      "owner": "BlackRock",
+      "owner": "BCD Project Holdings",
       "operating_year": 2023,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Clearfield",
-      "latitude": 40.963184,
-      "longitude": -78.179153,
       "solar_cf": 0.250100324211261,
       "wind_cf": 0.3997920294261133,
       "optimal_solar_mw": 13.1318261886305,
@@ -1108,6 +1306,8 @@
       "optimal_cf": 0.7875432500676594,
       "solar_lcoe_2025_wIRA": 21.76579825794353,
       "wind_lcoe_2025_wIRA": 24.61815693905753,
+      "solar_lcoe_2025_woIRA": 36.86579825794353,
+      "wind_lcoe_2025_woIRA": 39.71815693905753,
       "solar_lcoe_2030_woIRA": 28.87465032873587,
       "wind_lcoe_2030_woIRA": 36.77258988345807,
       "potential_mw_solar": 9713.544378382272,
@@ -1116,23 +1316,27 @@
       "current_cf": 0.250100324211261,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.86579825794353,
-      "wind_lcoe_2025_woIRA": 39.71815693905753
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.823316,
+        39.901749
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2057",
       "plant_name": "Cottontail Solar 1",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "York",
-      "latitude": 39.901749,
-      "longitude": -76.823316,
       "solar_cf": 0.2648840729386955,
       "wind_cf": 0.3756410450670188,
       "optimal_solar_mw": 14.2372006009322,
@@ -1142,6 +1346,8 @@
       "optimal_cf": 0.7679568914129004,
       "solar_lcoe_2025_wIRA": 19.31709371656009,
       "wind_lcoe_2025_wIRA": 44.11880691303628,
+      "solar_lcoe_2025_woIRA": 34.4170937165601,
+      "wind_lcoe_2025_woIRA": 64.22614351363819,
       "solar_lcoe_2030_woIRA": 26.97435294019232,
       "wind_lcoe_2030_woIRA": 59.59639518734295,
       "potential_mw_solar": 3344.872178663924,
@@ -1150,23 +1356,27 @@
       "current_cf": 0.2648840729386955,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.4170937165601,
-      "wind_lcoe_2025_woIRA": 64.22614351363819
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.770965,
+        39.93727
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2058",
       "plant_name": "Cottontail Solar 2",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "York",
-      "latitude": 39.93727,
-      "longitude": -76.770965,
       "solar_cf": 0.2649782765987862,
       "wind_cf": 0.4167254066634373,
       "optimal_solar_mw": 11.14431086712497,
@@ -1176,6 +1386,8 @@
       "optimal_cf": 0.791903525726516,
       "solar_lcoe_2025_wIRA": 19.64000605913504,
       "wind_lcoe_2025_wIRA": 20.67861952286565,
+      "solar_lcoe_2025_woIRA": 34.74000605913504,
+      "wind_lcoe_2025_woIRA": 35.77861952286565,
       "solar_lcoe_2030_woIRA": 27.21216760633396,
       "wind_lcoe_2030_woIRA": 33.11108721431876,
       "potential_mw_solar": 7283.880000000001,
@@ -1184,23 +1396,27 @@
       "current_cf": 0.2649782765987862,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.74000605913504,
-      "wind_lcoe_2025_woIRA": 35.77861952286565
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.792917,
+        40.988822
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2059",
       "plant_name": "Cottontail Solar 4",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Northumberland",
-      "latitude": 40.988822,
-      "longitude": -76.792917,
       "solar_cf": 0.2554344887887562,
       "wind_cf": 0.4323478428585125,
       "optimal_solar_mw": 10.81267034772103,
@@ -1210,6 +1426,8 @@
       "optimal_cf": 0.8038028252618523,
       "solar_lcoe_2025_wIRA": 22.03895119754678,
       "wind_lcoe_2025_wIRA": 19.38579660290313,
+      "solar_lcoe_2025_woIRA": 37.13895119754678,
+      "wind_lcoe_2025_woIRA": 34.48579660290314,
       "solar_lcoe_2030_woIRA": 29.04161397060798,
       "wind_lcoe_2030_woIRA": 31.91465277871421,
       "potential_mw_solar": 23792.21999999999,
@@ -1218,23 +1436,27 @@
       "current_cf": 0.2554344887887562,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 37.13895119754678,
-      "wind_lcoe_2025_woIRA": 34.48579660290314
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.3785,
+        40.5608
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2060",
       "plant_name": "Cottontail Solar 5",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Juniata",
-      "latitude": 40.5608,
-      "longitude": -77.3785,
       "solar_cf": 0.2572096873311957,
       "wind_cf": 0.5307656372523807,
       "optimal_solar_mw": 5.673857008337315,
@@ -1244,6 +1466,8 @@
       "optimal_cf": 0.8590914283139457,
       "solar_lcoe_2025_wIRA": 20.61254312842546,
       "wind_lcoe_2025_wIRA": 19.91116967861153,
+      "solar_lcoe_2025_woIRA": 35.71254312842547,
+      "wind_lcoe_2025_woIRA": 35.01116967861153,
       "solar_lcoe_2030_woIRA": 27.97742639878785,
       "wind_lcoe_2030_woIRA": 32.44562708329065,
       "potential_mw_solar": 4572.412440984068,
@@ -1252,23 +1476,27 @@
       "current_cf": 0.2572096873311957,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.71254312842547,
-      "wind_lcoe_2025_woIRA": 35.01116967861153
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.90506,
+        40.792458
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2061",
       "plant_name": "Cottontail Solar 6",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Snyder",
-      "latitude": 40.792458,
-      "longitude": -76.90506,
       "solar_cf": 0.257555913472105,
       "wind_cf": 0.5323921423756066,
       "optimal_solar_mw": 5.560248666802572,
@@ -1278,6 +1506,8 @@
       "optimal_cf": 0.8597523780613064,
       "solar_lcoe_2025_wIRA": 20.56453562658742,
       "wind_lcoe_2025_wIRA": 19.80420745599439,
+      "solar_lcoe_2025_woIRA": 35.66453562658742,
+      "wind_lcoe_2025_woIRA": 34.90420745599439,
       "solar_lcoe_2030_woIRA": 27.93981702595675,
       "wind_lcoe_2030_woIRA": 32.34650282040846,
       "potential_mw_solar": 1215.697917626898,
@@ -1286,23 +1516,27 @@
       "current_cf": 0.257555913472105,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.66453562658742,
-      "wind_lcoe_2025_woIRA": 34.90420745599439
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.783835,
+        39.925412
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2062",
       "plant_name": "Cottontail Solar 8",
       "technology": "Solar",
-      "owner": "Lightsource BP",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "York",
-      "latitude": 39.925412,
-      "longitude": -76.783835,
       "solar_cf": 0.2649782765987862,
       "wind_cf": 0.4167254066634373,
       "optimal_solar_mw": 11.14431086712497,
@@ -1312,6 +1546,8 @@
       "optimal_cf": 0.791903525726516,
       "solar_lcoe_2025_wIRA": 19.56552869831078,
       "wind_lcoe_2025_wIRA": 29.49225544754837,
+      "solar_lcoe_2025_woIRA": 34.66552869831078,
+      "wind_lcoe_2025_woIRA": 44.59225544754837,
       "solar_lcoe_2030_woIRA": 27.15718884102942,
       "wind_lcoe_2030_woIRA": 41.32463166284505,
       "potential_mw_solar": 3981.857070395623,
@@ -1320,12 +1556,18 @@
       "current_cf": 0.2649782765987862,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.66552869831078,
-      "wind_lcoe_2025_woIRA": 44.59225544754837
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.313399,
+        40.511559
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2079",
       "plant_name": "Gaucho Solar",
@@ -1335,8 +1577,6 @@
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Beaver",
-      "latitude": 40.511559,
-      "longitude": -80.313399,
       "solar_cf": 0.2499668852773688,
       "wind_cf": 0.3922930253920849,
       "optimal_solar_mw": 14.94662532975629,
@@ -1346,6 +1586,8 @@
       "optimal_cf": 0.8075530272899326,
       "solar_lcoe_2025_wIRA": 20.77886584267859,
       "wind_lcoe_2025_wIRA": 31.56141077702052,
+      "solar_lcoe_2025_woIRA": 35.87886584267859,
+      "wind_lcoe_2025_woIRA": 46.66141077702052,
       "solar_lcoe_2030_woIRA": 28.14698885125312,
       "wind_lcoe_2030_woIRA": 43.2384879820881,
       "potential_mw_solar": 3715.816668055807,
@@ -1354,12 +1596,18 @@
       "current_cf": 0.2499668852773688,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.87886584267859,
-      "wind_lcoe_2025_woIRA": 46.66141077702052
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.645972,
+        40.350219
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2110",
       "plant_name": "CPV Maple Hill Solar",
@@ -1369,8 +1617,6 @@
       "capacity_mw": 100.0,
       "rto_name": "PJM",
       "county": "Cambria",
-      "latitude": 40.350219,
-      "longitude": -78.645972,
       "solar_cf": 0.2568837337678009,
       "wind_cf": 0.5102905545584577,
       "optimal_solar_mw": 47.13518255521132,
@@ -1380,6 +1626,8 @@
       "optimal_cf": 0.8429067122129255,
       "solar_lcoe_2025_wIRA": 20.38897327456215,
       "wind_lcoe_2025_wIRA": 32.17889915768284,
+      "solar_lcoe_2025_woIRA": 35.48897327456215,
+      "wind_lcoe_2025_woIRA": 47.27889915768285,
       "solar_lcoe_2030_woIRA": 27.8144371653462,
       "wind_lcoe_2030_woIRA": 43.87079472746926,
       "potential_mw_solar": 6521.356459521809,
@@ -1388,23 +1636,27 @@
       "current_cf": 0.2568837337678009,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.48897327456215,
-      "wind_lcoe_2025_woIRA": 47.27889915768285
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.222305,
+        40.745335
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2185",
       "plant_name": "Sandy Ridge Wind 2, LLC",
       "technology": "Wind",
-      "owner": "LS Power Development, LLC",
+      "owner": "Algonquin Power & Utilities Corp; Ares Management LLC",
       "operating_year": 2023,
       "capacity_mw": 87.6,
       "rto_name": "PJM",
       "county": "Blair",
-      "latitude": 40.745335,
-      "longitude": -78.222305,
       "solar_cf": 0.252294306277739,
       "wind_cf": 0.5385323640350612,
       "optimal_solar_mw": 115.4295045909978,
@@ -1414,6 +1666,8 @@
       "optimal_cf": 0.8634040497773493,
       "solar_lcoe_2025_wIRA": 21.03454499571326,
       "wind_lcoe_2025_wIRA": 29.69949076656914,
+      "solar_lcoe_2025_woIRA": 36.13454499571326,
+      "wind_lcoe_2025_woIRA": 44.79949076656914,
       "solar_lcoe_2030_woIRA": 28.32040317159729,
       "wind_lcoe_2030_woIRA": 41.57011475162346,
       "potential_mw_solar": 16807.635,
@@ -1422,23 +1676,27 @@
       "current_cf": 0.5385323640350612,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.13454499571326,
-      "wind_lcoe_2025_woIRA": 44.79949076656914
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.835802,
+        39.750126
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2221",
       "plant_name": "Gans Solar",
       "technology": "Solar",
-      "owner": "Oriden (Mitsubishi Heavy Industries)",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 14.0,
       "rto_name": "PJM",
       "county": "Fayette",
-      "latitude": 39.750126,
-      "longitude": -79.835802,
       "solar_cf": 0.2494993460704538,
       "wind_cf": 0.4536773162814362,
       "optimal_solar_mw": 8.817014832571008,
@@ -1448,6 +1706,8 @@
       "optimal_cf": 0.8340829544015104,
       "solar_lcoe_2025_wIRA": 21.7952747955563,
       "wind_lcoe_2025_wIRA": 17.76445946368044,
+      "solar_lcoe_2025_woIRA": 36.8952747955563,
+      "wind_lcoe_2025_woIRA": 32.86445946368044,
       "solar_lcoe_2030_woIRA": 28.90040951372893,
       "wind_lcoe_2030_woIRA": 30.41419702786257,
       "potential_mw_solar": 2558.54335165154,
@@ -1456,23 +1716,27 @@
       "current_cf": 0.2494993460704538,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.8952747955563,
-      "wind_lcoe_2025_woIRA": 32.86445946368044
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.643936,
+        39.96106
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2222",
       "plant_name": "Pechin Solar",
       "technology": "Solar",
-      "owner": "Oriden (Mitsubishi Heavy Industries)",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 14.0,
       "rto_name": "PJM",
       "county": "Fayette",
-      "latitude": 39.96106,
-      "longitude": -79.643936,
       "solar_cf": 0.25087641236186,
       "wind_cf": 0.5237805661513862,
       "optimal_solar_mw": 6.852734830466542,
@@ -1482,6 +1746,8 @@
       "optimal_cf": 0.8548016684071315,
       "solar_lcoe_2025_wIRA": 20.94377975209675,
       "wind_lcoe_2025_wIRA": 13.36585141574965,
+      "solar_lcoe_2025_woIRA": 36.04377975209675,
+      "wind_lcoe_2025_woIRA": 28.46585141574965,
       "solar_lcoe_2030_woIRA": 28.26270407660786,
       "wind_lcoe_2030_woIRA": 26.34353425107314,
       "potential_mw_solar": 3822.030000000001,
@@ -1490,23 +1756,27 @@
       "current_cf": 0.25087641236186,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.04377975209675,
-      "wind_lcoe_2025_woIRA": 28.46585141574965
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.303392,
+        39.76472
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2234",
       "plant_name": "Listonburg Solar",
       "technology": "Solar",
-      "owner": "Oriden (Mitsubishi Heavy Industries)",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 15.0,
       "rto_name": "PJM",
       "county": "Somerset",
-      "latitude": 39.76472,
-      "longitude": -79.303392,
       "solar_cf": 0.2555786080923736,
       "wind_cf": 0.5146738625264404,
       "optimal_solar_mw": 7.562134733621736,
@@ -1516,6 +1786,8 @@
       "optimal_cf": 0.8493409076654816,
       "solar_lcoe_2025_wIRA": 20.91767379237746,
       "wind_lcoe_2025_wIRA": 13.86952974711558,
+      "solar_lcoe_2025_woIRA": 36.01767379237746,
+      "wind_lcoe_2025_woIRA": 28.96952974711558,
       "solar_lcoe_2030_woIRA": 28.21297654237775,
       "wind_lcoe_2030_woIRA": 26.80966003737302,
       "potential_mw_solar": 3505.532884515072,
@@ -1524,12 +1796,18 @@
       "current_cf": 0.2555786080923736,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.01767379237746,
-      "wind_lcoe_2025_woIRA": 28.96952974711558
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.041221,
+        39.923887
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2251",
       "plant_name": "Great Cove Solar",
@@ -1539,8 +1817,6 @@
       "capacity_mw": 70.0,
       "rto_name": "PJM",
       "county": "Fulton",
-      "latitude": 39.923887,
-      "longitude": -78.041221,
       "solar_cf": 0.2605621367932702,
       "wind_cf": 0.4768524459937465,
       "optimal_solar_mw": 28.92871707364424,
@@ -1550,6 +1826,8 @@
       "optimal_cf": 0.8212407001808641,
       "solar_lcoe_2025_wIRA": 19.81222934994497,
       "wind_lcoe_2025_wIRA": 16.1672397841032,
+      "solar_lcoe_2025_woIRA": 34.91222934994498,
+      "wind_lcoe_2025_woIRA": 31.26723978410319,
       "solar_lcoe_2030_woIRA": 27.36586512898239,
       "wind_lcoe_2030_woIRA": 28.93606062080779,
       "potential_mw_solar": 4090.117887205185,
@@ -1558,12 +1836,18 @@
       "current_cf": 0.2605621367932702,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.91222934994498,
-      "wind_lcoe_2025_woIRA": 31.26723978410319
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.785,
+        40.472
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2255",
       "plant_name": "Lyons Solar",
@@ -1573,8 +1857,6 @@
       "capacity_mw": 20.0,
       "rto_name": "PJM",
       "county": "Berks",
-      "latitude": 40.472,
-      "longitude": -75.785,
       "solar_cf": 0.2614584127079036,
       "wind_cf": 0.3570217971442279,
       "optimal_solar_mw": 14.52565008799783,
@@ -1584,6 +1866,8 @@
       "optimal_cf": 0.752539779509297,
       "solar_lcoe_2025_wIRA": 19.69255069830615,
       "wind_lcoe_2025_wIRA": 26.66176325867123,
+      "solar_lcoe_2025_woIRA": 34.79255069830615,
+      "wind_lcoe_2025_woIRA": 41.76176325867123,
       "solar_lcoe_2030_woIRA": 27.27205531217755,
       "wind_lcoe_2030_woIRA": 38.64814808178611,
       "potential_mw_solar": 7351.824725450039,
@@ -1592,12 +1876,18 @@
       "current_cf": 0.2614584127079036,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.79255069830615,
-      "wind_lcoe_2025_woIRA": 41.76176325867123
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.197226,
+        39.879553
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2352",
       "plant_name": "Adams Solar LLC PA",
@@ -1607,8 +1897,6 @@
       "capacity_mw": 80.0,
       "rto_name": "PJM",
       "county": "Adams",
-      "latitude": 39.879553,
-      "longitude": -77.197226,
       "solar_cf": 0.2634247004489771,
       "wind_cf": 0.3058539281608975,
       "optimal_solar_mw": 71.77152300252106,
@@ -1618,6 +1906,8 @@
       "optimal_cf": 0.7302792812062293,
       "solar_lcoe_2025_wIRA": 19.507764369921,
       "wind_lcoe_2025_wIRA": 54.18545655298779,
+      "solar_lcoe_2025_woIRA": 34.607764369921,
+      "wind_lcoe_2025_woIRA": 78.880712159419,
       "solar_lcoe_2030_woIRA": 27.1237908195627,
       "wind_lcoe_2030_woIRA": 73.19458770731801,
       "potential_mw_solar": 17310.77519347307,
@@ -1626,12 +1916,18 @@
       "current_cf": 0.2634247004489771,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.607764369921,
-      "wind_lcoe_2025_woIRA": 78.880712159419
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.45815,
+        40.61655
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2393",
       "plant_name": "Pine 1 Solar",
@@ -1641,8 +1937,6 @@
       "capacity_mw": 17.1,
       "rto_name": "PJM",
       "county": "Beaver",
-      "latitude": 40.61655,
-      "longitude": -80.45815,
       "solar_cf": 0.2511296246645554,
       "wind_cf": 0.3724439058916328,
       "optimal_solar_mw": 14.01481255176533,
@@ -1652,6 +1946,8 @@
       "optimal_cf": 0.8007604380778286,
       "solar_lcoe_2025_wIRA": 21.2021287294662,
       "wind_lcoe_2025_wIRA": 44.49753230959036,
+      "solar_lcoe_2025_woIRA": 36.3021287294662,
+      "wind_lcoe_2025_woIRA": 64.77747464367731,
       "solar_lcoe_2030_woIRA": 28.45174670741456,
       "wind_lcoe_2030_woIRA": 60.10798355474848,
       "potential_mw_solar": 3677.489414723276,
@@ -1660,12 +1956,18 @@
       "current_cf": 0.2511296246645554,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 36.3021287294662,
-      "wind_lcoe_2025_woIRA": 64.77747464367731
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.471,
+        40.61575
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2394",
       "plant_name": "Pine 2 Solar",
@@ -1675,8 +1977,6 @@
       "capacity_mw": 17.1,
       "rto_name": "PJM",
       "county": "Beaver",
-      "latitude": 40.61575,
-      "longitude": -80.471,
       "solar_cf": 0.2511296246645554,
       "wind_cf": 0.3724439058916328,
       "optimal_solar_mw": 14.01481255176533,
@@ -1686,6 +1986,8 @@
       "optimal_cf": 0.8007604380778286,
       "solar_lcoe_2025_wIRA": 22.67558711349782,
       "wind_lcoe_2025_wIRA": 24.93249760478239,
+      "solar_lcoe_2025_woIRA": 37.77558711349783,
+      "wind_lcoe_2025_woIRA": 40.03249760478239,
       "solar_lcoe_2030_woIRA": 29.53944532864848,
       "wind_lcoe_2030_woIRA": 37.04781059961897,
       "potential_mw_solar": 16044.93427541708,
@@ -1694,12 +1996,18 @@
       "current_cf": 0.2511296246645554,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 37.77558711349783,
-      "wind_lcoe_2025_woIRA": 40.03249760478239
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.8682,
+        39.9016
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2425",
       "plant_name": "Great Cove Solar II",
@@ -1709,8 +2017,6 @@
       "capacity_mw": 150.0,
       "rto_name": "PJM",
       "county": "Franklin",
-      "latitude": 39.9016,
-      "longitude": -77.8682,
       "solar_cf": 0.2605621367932702,
       "wind_cf": 0.4768524459937465,
       "optimal_solar_mw": 61.99010801495231,
@@ -1720,6 +2026,8 @@
       "optimal_cf": 0.8212407001808608,
       "solar_lcoe_2025_wIRA": 19.60394533700582,
       "wind_lcoe_2025_wIRA": 16.1672397841032,
+      "solar_lcoe_2025_woIRA": 34.70394533700582,
+      "wind_lcoe_2025_woIRA": 31.26723978410319,
       "solar_lcoe_2030_woIRA": 27.21211105207449,
       "wind_lcoe_2030_woIRA": 28.93606062080779,
       "potential_mw_solar": 3894.794999999999,
@@ -1728,23 +2036,27 @@
       "current_cf": 0.2605621367932702,
       "generator_operating_date": 2023,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 34.70394533700582,
-      "wind_lcoe_2025_woIRA": 31.26723978410319
+      "operational_status": "existing"
     }
   },
   {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.319569,
+        40.183449
+      ]
+    },
     "properties": {
       "fac_id_eia": "us_re_plant_2479",
       "plant_name": "Spring Lane",
       "technology": "Solar",
-      "owner": "MN8 Energy LLC",
+      "owner": null,
       "operating_year": 2024,
       "capacity_mw": 13.8,
       "rto_name": "PJM",
       "county": "Westmoreland",
-      "latitude": 40.183449,
-      "longitude": -79.319569,
       "solar_cf": 0.254907151442154,
       "wind_cf": 0.496849030414223,
       "optimal_solar_mw": 7.238465433927054,
@@ -1754,6 +2066,8 @@
       "optimal_cf": 0.8423338239242885,
       "solar_lcoe_2025_wIRA": 20.66415926653214,
       "wind_lcoe_2025_wIRA": 33.35587617451158,
+      "solar_lcoe_2025_woIRA": 35.76415926653214,
+      "wind_lcoe_2025_woIRA": 48.55796065451422,
       "solar_lcoe_2030_woIRA": 28.03011383266526,
       "wind_lcoe_2030_woIRA": 45.05765494145502,
       "potential_mw_solar": 8872.39629940203,
@@ -1762,9 +2076,7 @@
       "current_cf": 0.254907151442154,
       "generator_operating_date": 2024,
       "generator_retirement_date": null,
-      "operational_status": "existing",
-      "solar_lcoe_2025_woIRA": 35.76415926653214,
-      "wind_lcoe_2025_woIRA": 48.55796065451422
+      "operational_status": "existing"
     }
   }
 ]
