@@ -49,9 +49,9 @@ export default function ApproachSection() {
   const thermalBenefits = [
     {
       title: "Abundant Local Resources",
-      subtitle: "~1,371 GW Potential",
+      subtitle: "~970 GW Potential",
       description:
-        "Over 1,371 GW of combined solar and wind potential exists within 6 miles of Pennsylvania's thermal plants. This enormous renewable resource can enable clean energy deployment at existing interconnection points.",
+        "Over 970 GW of combined solar and wind potential exists within 6 miles of Pennsylvania's thermal plants. This enormous renewable resource can enable clean energy deployment at existing interconnection points.",
     },
     {
       title: "Urban Area Plants",
@@ -61,15 +61,15 @@ export default function ApproachSection() {
     },
     {
       title: "Economic Crossover",
-      subtitle: "32.7 GW Today",
+      subtitle: "10.3 GW Today",
       description:
-        "Building new solar is already cheaper than operating 32.7 GW of Pennsylvania's existing thermal plants (96% of total thermal capacity) with IRA tax credits. This makes the vast majority of thermal sites economically viable for surplus interconnection today.",
+        "Building new solar is already cheaper than operating 10.3 GW of Pennsylvania's existing thermal plants (30% of total thermal capacity) without IRA tax credits. This makes the vast majority of thermal sites economically viable for surplus interconnection today.",
     },
     {
       title: "Total RE Integration Potential",
-      subtitle: "~30 GW by 2030",
+      subtitle: "~10 GW by 2030",
       description:
-        "Approximately 30 GW of total renewable energy (~29 GW solar + ~1 GW wind) can be economically integrated at Pennsylvania thermal plants by 2030, using existing grid connections and avoiding lengthy queue delays.",
+        "Approximately 10 GW of total renewable energy (~9.5 GW solar + ~0.5 GW wind) can be economically integrated at Pennsylvania thermal plants by 2030, using existing grid connections and avoiding lengthy queue delays.",
     },
     {
       title: "Quick Wins Available",
@@ -215,9 +215,9 @@ export default function ApproachSection() {
                     Pennsylvania has 34.2 GW of thermal capacity across 67 plants, with 10.5 GW operating at
                     less than 20% capacity factor (including coal at just 19% utilization), leaving grid connections
                     idle most of the time. Building new solar is already cheaper than operating
-                    32.7 GW (96%) of existing thermal plants with IRA tax credits. By co-locating
+                    10.3 GW (30%) of existing thermal plants without IRA tax credits. By co-locating
                     solar and wind at these sites, we can bypass lengthy PJM interconnection queues and deploy
-                    approximately 30 GW of clean energy using existing infrastructure.
+                    approximately 10 GW of clean energy using existing infrastructure.
                   </Typography>
 
                   {/* Action Buttons

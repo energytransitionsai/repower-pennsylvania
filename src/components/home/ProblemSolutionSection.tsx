@@ -202,8 +202,8 @@ export default function ProblemSolutionSection() {
                     }}
                   >
                     Pennsylvania has{" "}
-                    <strong style={{ color: "#48cae4" }}>~72 GW</strong> of
-                    active projects in the PJM interconnection queue, with{" "}
+                    <strong style={{ color: "#48cae4" }}>21 GW</strong> across 694 projects
+                    in the PJM interconnection queue for Pennsylvania, with{" "}
                     <strong style={{ color: "#48cae4" }}>average connection timelines exceeding 5 years</strong>—
                     over 40 months to reach interconnection agreement, plus 2+ years for construction.
                   </Typography>
@@ -240,8 +240,8 @@ export default function ProblemSolutionSection() {
                     }}
                   >
                     Pennsylvania's electricity market faces substantial capacity challenges.{" "}
-                    <strong style={{ color: "#48cae4" }}>PJM's 2026/27 capacity cleared at the price cap of $329.17/MW-day</strong>{" "}
-                    (11.4x increase from prior years), reflecting{" "}
+                    <strong style={{ color: "#48cae4" }}>PJM's 2027/28 capacity cleared at the price cap of $333/MW-day</strong>{" "}
+                    (11x increase from prior years), reflecting{" "}
                     <strong style={{ color: "#48cae4" }}>accelerating demand growth from data centers and electrification</strong>{" "}
                     alongside thermal plant retirements. PJM's market monitor attributes data centers as the
                     primary reason for rising capacity prices across the region.
@@ -458,9 +458,9 @@ export default function ProblemSolutionSection() {
                       }}
                     >
                       Pennsylvania can add{" "}
-                      <strong style={{ color: "#8ecae6" }}>37 GW</strong> of
+                      <strong style={{ color: "#8ecae6" }}>16.5 GW</strong> of
                       clean energy capacity through surplus interconnection,
-                      including ~30 GW at thermal plants (29 GW solar + 1 GW wind) and ~4 GW at renewable plants
+                      including ~10 GW at thermal plants (9.5 GW solar + 0.5 GW wind) and ~4 GW at renewable plants
                       enabled by ~2.3 GW of 6-hour battery storage—all at existing sites without new transmission.
                     </Typography>
                   </Box>
@@ -491,9 +491,9 @@ export default function ProblemSolutionSection() {
                       }}
                     >
                       Surplus interconnection can save{" "}
-                      <strong style={{ color: "#8ecae6" }}>$3.1 billion</strong> in
+                      <strong style={{ color: "#8ecae6" }}>$1.4 billion</strong> in
                       interconnection costs by leveraging existing infrastructure, equivalent to{" "}
-                      <strong style={{ color: "#8ecae6" }}>$586 per Pennsylvania household</strong>. This conservative estimate
+                      <strong style={{ color: "#8ecae6" }}>$256 per Pennsylvania household</strong>. This conservative estimate
                       only accounts for interconnection savings—additional benefits from co-location and transmission
                       utilization would increase total savings significantly.
                     </Typography>
@@ -527,7 +527,7 @@ export default function ProblemSolutionSection() {
                       Surplus interconnection projects can be completed in{" "}
                       <strong style={{ color: "#8ecae6" }}>12-18 months</strong>{" "}
                       compared to{" "}
-                      <strong style={{ color: "#8ecae6" }}>4-5 years</strong> for
+                      <strong style={{ color: "#8ecae6" }}>5+ years</strong> for
                       standard queue projects. PJM's 2025 FERC-approved reforms streamline SIS eligibility,
                       enabling rapid deployment when no network upgrades are triggered.
                     </Typography>

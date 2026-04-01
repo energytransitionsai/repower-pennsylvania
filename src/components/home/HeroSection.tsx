@@ -132,7 +132,7 @@ export default function HeroSection() {
                 variant="outlined"
                 size="large"
                 target="_blank"
-                href="https://surplusinterconnection.s3.us-east-1.amazonaws.com/pennsylvania_surplus_working_paper.pdf"
+                href="https://surplusinterconnection.s3.amazonaws.com/Pennsylvania.pdf"
                 sx={{
                   // py: 1.5,
                   // px: 3,
@@ -154,7 +154,7 @@ export default function HeroSection() {
                 variant="outlined"
                 size="large"
                 target="_blank"
-                href="https://surplusinterconnection.s3.us-east-1.amazonaws.com/pennsylvania_surplus_factsheet.pdf"
+                href="https://surplusinterconnection.s3.amazonaws.com/Pennsylvania_Factsheet.pdf"
                 sx={{
                   // py: 1.5,
                   // px: 3,
